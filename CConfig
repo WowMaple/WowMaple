@@ -3,237 +3,157 @@ socks-port: 7891
 allow-lan: true
 mode: Rule
 log-level: info
-external-controller: :9090
+external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 🇭🇰 香港-9.66-20201120, server: azure5.tussr22.xyz, port: 410, type: vmess, uuid: 80235a40-0648-3b89-8d06-f12581098c98, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: www.bing.com}}
-  - {name: 🇭🇰 香港-9.63-20201120, server: azure3.3mcloud.co, port: 410, type: vmess, uuid: 80235a40-0648-3b89-8d06-f12581098c98, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: www.bing.com}}
-  - {name: 🇭🇰 香港-9.51-20201120, server: azure4.tussr22.xyz, port: 410, type: vmess, uuid: 80235a40-0648-3b89-8d06-f12581098c98, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: www.bing.com}}
-  - {name: 🇭🇰 香港-9.3-20201120, server: tussr.3mcloud.co, port: 14506, type: vmess, uuid: 80235a40-0648-3b89-8d06-f12581098c98, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: www.bing.com}}
-  - {name: 🇭🇰 香港-7.17-20201120, server: aga.ohss.icu, port: 21002, type: vmess, uuid: 80235a40-0648-3b89-8d06-f12581098c98, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: www.bing.com}}
-  - {name: 🇨🇳 台湾-9.76-20201120, server: 103.98.75.73, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇨🇳 台湾-9.28-20201120, server: 2.58.241.5, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇨🇳 台湾-8.75-20201120, server: lbw-tw-02.myidcddns.com, port: 410, type: vmess, uuid: 80235a40-0648-3b89-8d06-f12581098c98, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: www.bing.com}}
-  - {name: 🇨🇳 台湾-8.15-20201120, server: 2.58.242.157, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇨🇳 台湾-6-20201120, server: www.garmin.com, port: 443, type: vmess, uuid: 4e27a5cd-ca58-b6e3-566e-201ca65a0381, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /plcj, ws-headers: {Host: trump.fuckgfw.cf}}
-  - {name: 🇨🇳 台湾-6.6-20201120, server: www.cloudflare.com, port: 443, type: vmess, uuid: 4e27a5cd-ca58-b6e3-566e-201ca65a0381, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /plcj, ws-headers: {Host: trump.fuckgfw.cf}}
-  - {name: 🇨🇳 台湾-6.55-20201120, server: domain08.qiu4.ml, port: 443, type: vmess, uuid: 4e27a5cd-ca58-b6e3-566e-201ca65a0381, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /plcj, ws-headers: {Host: trump.fuckgfw.cf}}
-  - {name: 🇨🇳 台湾-3.64-20201120, server: lbw-tw-01.myidcddns.com, port: 410, type: vmess, uuid: 80235a40-0648-3b89-8d06-f12581098c98, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: www.bing.com}}
-  - {name: 🇨🇳 台湾-3.28-20201120, server: taibei2.bsnet.world, port: 410, type: vmess, uuid: 80235a40-0648-3b89-8d06-f12581098c98, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: www.bing.com}}
-  - {name: 🇯🇵 日本-4.99-20201120, server: domain08.qiu4.ml, port: 443, type: vmess, uuid: 9d434198-3dca-4189-a9df-f2da4e2a3571, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /4db4939cc4d3, ws-headers: {Host: cloudflare2020.tk}}
-  - {name: 🇯🇵 日本-3.69-20201120, server: 103.208.221.227, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇯🇵 日本-3.64-20201120, server: 103.208.221.229, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇯🇵 日本-2.8-20201120, server: cloudflare2020.tk, port: 443, type: vmess, uuid: 2d4032ff-67b8-42a4-a7f7-568fbdba6862, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true}
-  - {name: 🇭🇰 欧洲-HK-20201120, server: 104.19.110.12, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: proud-hill-c3f1.maplewow01.workers.dev}}
-  - {name: 🇭🇰 欧洲-HK2-20201120, server: 104.19.19.143, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: lucky-leaf-364f.maplewow.workers.dev}}
-  - {name: 欧洲-4.03-20201120, server: 172.83.40.147, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 欧洲-3.83-20201120, server: 198.8.85.35, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 欧洲-3.6-20201120, server: 89.187.169.119, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 欧洲-2.96-20201120, server: 89.187.169.119, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 欧洲-2.96-20201120 2, server: 37.120.194.125, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 欧洲-2.71-20201120, server: 185.180.14.147, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 欧洲-2.58-20201120, server: 185.152.64.151, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 欧洲-2.46-20201120, server: 37.120.194.125, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇭🇰 美国-HK-20201120, server: 104.19.19.143, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: mute-shape-f7e8.maplewow01.workers.dev}}
-  - {name: 🇭🇰 美国-HK2-20201120, server: 104.19.110.12, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: sparkling-night-4e88.maplewow.workers.dev}}
-  - {name: 🇺🇸 美国-4.04-20201120, server: 66.115.154.151, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇸 美国-3-20201120, server: 66.115.147.67, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇸 美国-3.97-20201120, server: 192.111.134.202, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇸 美国-3.68-20201120, server: 184.170.243.197, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇺🇸 美国-3.6-20201120, server: 23.225.9.253, port: 443, type: vmess, uuid: 5fba5fed-b7a3-48cb-9951-52e0bc632d93, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /footers, ws-headers: {Host: www.5307259.xyz}}
-  - {name: 🇺🇸 美国-2.99-20201120, server: 154.84.1.235, port: 443, type: vmess, uuid: d15111f5-ad92-4175-a238-7266cf665786, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /footers, ws-headers: {Host: www.9142674173.xyz}}
-  - {name: 🇺🇸 美国-2.9-20201120, server: he2.3mcloud.co, port: 410, type: vmess, uuid: 80235a40-0648-3b89-8d06-f12581098c98, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: www.bing.com}}
-  - {name: 🇺🇸 美国-2.77-20201120, server: 23.225.125.86, port: 443, type: vmess, uuid: 8fb921c0-564d-4d5a-9b13-384c01820126, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /footers, ws-headers: {Host: www.56626173.xyz}}
-  - {name: 🇺🇸 美国-2.56-20201120, server: 172.98.87.37, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇸 美国-2.54-20201120, server: 154.84.1.253, port: 443, type: vmess, uuid: 57e24a59-8af7-4946-bb1f-c6af791ada9e, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /footers, ws-headers: {Host: www.6460649.xyz}}
-  - {name: 🇺🇸 美国-2.53-20201120, server: 154.84.1.8, port: 443, type: vmess, uuid: cec93317-8bbf-4234-908a-f5504227fa81, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /footers, ws-headers: {Host: www.0751432.xyz}}
-  - {name: 🇰🇷 韩国-2.89-20201120, server: trump-fuck-gfw.xyz, port: 443, type: trojan, password: 31yDG5fdfdfff, sni: trump-fuck-gfw.xyz, skip-cert-verify: true}
+  - {name: 🇨🇳 G01 VIP1 台湾01 Netflix|动画疯, server: relayserver.gzcm.popocloud.online, port: 501, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇨🇳 G01 VIP1 台湾02 Netflix|动画疯, server: relayserver.gzcm.popocloud.online, port: 502, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇸🇬 G01 VIP1 新加坡01 流媒体解锁, server: relayserver.gzcm.popocloud.online, port: 601, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇸🇬 G01 VIP1 新加坡02 流媒体解锁, server: relayserver.gzcm.popocloud.online, port: 602, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇸🇬 G01 VIP1 新加坡03 流媒体解锁, server: relayserver.gzcm.popocloud.online, port: 603, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇸🇬 G01 VIP1 新加坡04 流媒体解锁, server: relayserver.gzcm.popocloud.online, port: 604, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇸🇬 G01 VIP1 新加坡05 流媒体解锁, server: relayserver.gzcm.popocloud.online, port: 605, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇸🇬 G01 VIP1 新加坡06 解锁流媒体, server: relayserver.gzcm.popocloud.online, port: 606, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇯🇵 G01 VIP1 日本01 解锁流媒体, server: relayserver.gzcm.popocloud.online, port: 701, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇯🇵 G01 VIP1 日本02 解锁流媒体, server: relayserver.gzcm.popocloud.online, port: 702, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇯🇵 G01 VIP1 日本03 解锁流媒体, server: relayserver.gzcm.popocloud.online, port: 703, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇯🇵 G01 VIP1 日本04 解锁流媒体, server: relayserver.gzcm.popocloud.online, port: 704, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇺🇲 G01 VIP1 美国01 解锁流媒体, server: relayserver.hncu.popocloud.online, port: 801, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇺🇲 G01 VIP1 美国02 解锁流媒体, server: relayserver.hncu.popocloud.online, port: 802, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇺🇲 G01 VIP1 美国03 解锁流媒体, server: relayserver.hncu.popocloud.online, port: 803, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇺🇲 G01 VIP1 美国04 解锁流媒体, server: relayserver.hncu.popocloud.online, port: 804, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇭🇰 G01 VIP1 香港01 流媒体解锁, server: relayserver.hncu.popocloud.online, port: 901, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇭🇰 G01 VIP1 香港02 流媒体解锁, server: relayserver.gzcm.popocloud.online, port: 902, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇭🇰 G01 VIP1 香港03 流媒体解锁, server: relayserver.hncu.popocloud.online, port: 903, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇭🇰 G01 VIP1 香港04 流媒体解锁, server: relayserver.hncu.popocloud.online, port: 904, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇭🇰 G01 VIP1 香港05 流媒体解锁, server: relayserver.hncu.popocloud.online, port: 905, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇭🇰 G01 VIP1 香港06 流媒体解锁, server: relayserver.hncu.popocloud.online, port: 906, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇭🇰 G01 VIP1 香港07 流媒体解锁, server: relayserver.gzcm1.popocloud.online, port: 907, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇭🇰 G01 VIP1 香港08 流媒体解锁, server: relayserver.hncu.popocloud.online, port: 908, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇭🇰 G01 VIP1 香港09 流媒体解锁, server: relayserver.hncu.popocloud.online, port: 909, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
+  - {name: 🇭🇰 G01 VIP1 香港10 流媒体解锁, server: relayserver.hncu.popocloud.online, port: 910, type: vmess, uuid: c891f881-716a-eae5-a5e1-7bbd7f94615d, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇭🇰 香港-9.66-20201120
-      - 🇭🇰 香港-9.63-20201120
-      - 🇭🇰 香港-9.51-20201120
-      - 🇭🇰 香港-9.3-20201120
-      - 🇭🇰 香港-7.17-20201120
-      - 🇨🇳 台湾-9.76-20201120
-      - 🇨🇳 台湾-9.28-20201120
-      - 🇨🇳 台湾-8.75-20201120
-      - 🇨🇳 台湾-8.15-20201120
-      - 🇨🇳 台湾-6-20201120
-      - 🇨🇳 台湾-6.6-20201120
-      - 🇨🇳 台湾-6.55-20201120
-      - 🇨🇳 台湾-3.64-20201120
-      - 🇨🇳 台湾-3.28-20201120
-      - 🇯🇵 日本-4.99-20201120
-      - 🇯🇵 日本-3.69-20201120
-      - 🇯🇵 日本-3.64-20201120
-      - 🇯🇵 日本-2.8-20201120
-      - 🇭🇰 欧洲-HK-20201120
-      - 🇭🇰 欧洲-HK2-20201120
-      - 欧洲-4.03-20201120
-      - 欧洲-3.83-20201120
-      - 欧洲-3.6-20201120
-      - 欧洲-2.96-20201120
-      - 欧洲-2.96-20201120 2
-      - 欧洲-2.71-20201120
-      - 欧洲-2.58-20201120
-      - 欧洲-2.46-20201120
-      - 🇭🇰 美国-HK-20201120
-      - 🇭🇰 美国-HK2-20201120
-      - 🇺🇸 美国-4.04-20201120
-      - 🇺🇸 美国-3-20201120
-      - 🇺🇸 美国-3.97-20201120
-      - 🇺🇸 美国-3.68-20201120
-      - 🇺🇸 美国-3.6-20201120
-      - 🇺🇸 美国-2.99-20201120
-      - 🇺🇸 美国-2.9-20201120
-      - 🇺🇸 美国-2.77-20201120
-      - 🇺🇸 美国-2.56-20201120
-      - 🇺🇸 美国-2.54-20201120
-      - 🇺🇸 美国-2.53-20201120
-      - 🇰🇷 韩国-2.89-20201120
+      - 🇨🇳 G01 VIP1 台湾01 Netflix|动画疯
+      - 🇨🇳 G01 VIP1 台湾02 Netflix|动画疯
+      - 🇸🇬 G01 VIP1 新加坡01 流媒体解锁
+      - 🇸🇬 G01 VIP1 新加坡02 流媒体解锁
+      - 🇸🇬 G01 VIP1 新加坡03 流媒体解锁
+      - 🇸🇬 G01 VIP1 新加坡04 流媒体解锁
+      - 🇸🇬 G01 VIP1 新加坡05 流媒体解锁
+      - 🇸🇬 G01 VIP1 新加坡06 解锁流媒体
+      - 🇯🇵 G01 VIP1 日本01 解锁流媒体
+      - 🇯🇵 G01 VIP1 日本02 解锁流媒体
+      - 🇯🇵 G01 VIP1 日本03 解锁流媒体
+      - 🇯🇵 G01 VIP1 日本04 解锁流媒体
+      - 🇺🇲 G01 VIP1 美国01 解锁流媒体
+      - 🇺🇲 G01 VIP1 美国02 解锁流媒体
+      - 🇺🇲 G01 VIP1 美国03 解锁流媒体
+      - 🇺🇲 G01 VIP1 美国04 解锁流媒体
+      - 🇭🇰 G01 VIP1 香港01 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港02 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港03 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港04 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港05 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港06 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港07 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港08 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港09 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港10 流媒体解锁
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🇭🇰 香港-9.66-20201120
-      - 🇭🇰 香港-9.63-20201120
-      - 🇭🇰 香港-9.51-20201120
-      - 🇭🇰 香港-9.3-20201120
-      - 🇭🇰 香港-7.17-20201120
-      - 🇨🇳 台湾-9.76-20201120
-      - 🇨🇳 台湾-9.28-20201120
-      - 🇨🇳 台湾-8.75-20201120
-      - 🇨🇳 台湾-8.15-20201120
-      - 🇨🇳 台湾-6-20201120
-      - 🇨🇳 台湾-6.6-20201120
-      - 🇨🇳 台湾-6.55-20201120
-      - 🇨🇳 台湾-3.64-20201120
-      - 🇨🇳 台湾-3.28-20201120
-      - 🇯🇵 日本-4.99-20201120
-      - 🇯🇵 日本-3.69-20201120
-      - 🇯🇵 日本-3.64-20201120
-      - 🇯🇵 日本-2.8-20201120
-      - 🇭🇰 欧洲-HK-20201120
-      - 🇭🇰 欧洲-HK2-20201120
-      - 欧洲-4.03-20201120
-      - 欧洲-3.83-20201120
-      - 欧洲-3.6-20201120
-      - 欧洲-2.96-20201120
-      - 欧洲-2.96-20201120 2
-      - 欧洲-2.71-20201120
-      - 欧洲-2.58-20201120
-      - 欧洲-2.46-20201120
-      - 🇭🇰 美国-HK-20201120
-      - 🇭🇰 美国-HK2-20201120
-      - 🇺🇸 美国-4.04-20201120
-      - 🇺🇸 美国-3-20201120
-      - 🇺🇸 美国-3.97-20201120
-      - 🇺🇸 美国-3.68-20201120
-      - 🇺🇸 美国-3.6-20201120
-      - 🇺🇸 美国-2.99-20201120
-      - 🇺🇸 美国-2.9-20201120
-      - 🇺🇸 美国-2.77-20201120
-      - 🇺🇸 美国-2.56-20201120
-      - 🇺🇸 美国-2.54-20201120
-      - 🇺🇸 美国-2.53-20201120
-      - 🇰🇷 韩国-2.89-20201120
+      - 🇨🇳 G01 VIP1 台湾01 Netflix|动画疯
+      - 🇨🇳 G01 VIP1 台湾02 Netflix|动画疯
+      - 🇸🇬 G01 VIP1 新加坡01 流媒体解锁
+      - 🇸🇬 G01 VIP1 新加坡02 流媒体解锁
+      - 🇸🇬 G01 VIP1 新加坡03 流媒体解锁
+      - 🇸🇬 G01 VIP1 新加坡04 流媒体解锁
+      - 🇸🇬 G01 VIP1 新加坡05 流媒体解锁
+      - 🇸🇬 G01 VIP1 新加坡06 解锁流媒体
+      - 🇯🇵 G01 VIP1 日本01 解锁流媒体
+      - 🇯🇵 G01 VIP1 日本02 解锁流媒体
+      - 🇯🇵 G01 VIP1 日本03 解锁流媒体
+      - 🇯🇵 G01 VIP1 日本04 解锁流媒体
+      - 🇺🇲 G01 VIP1 美国01 解锁流媒体
+      - 🇺🇲 G01 VIP1 美国02 解锁流媒体
+      - 🇺🇲 G01 VIP1 美国03 解锁流媒体
+      - 🇺🇲 G01 VIP1 美国04 解锁流媒体
+      - 🇭🇰 G01 VIP1 香港01 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港02 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港03 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港04 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港05 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港06 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港07 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港08 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港09 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港10 流媒体解锁
   - name: 🎥 奈飞视频
     type: select
     proxies:
       - 🚀 节点选择
-      - 🇭🇰 香港-9.66-20201120
-      - 🇭🇰 香港-9.63-20201120
-      - 🇭🇰 香港-9.51-20201120
-      - 🇭🇰 香港-9.3-20201120
-      - 🇭🇰 香港-7.17-20201120
-      - 🇨🇳 台湾-9.76-20201120
-      - 🇨🇳 台湾-9.28-20201120
-      - 🇨🇳 台湾-8.75-20201120
-      - 🇨🇳 台湾-8.15-20201120
-      - 🇨🇳 台湾-6-20201120
-      - 🇨🇳 台湾-6.6-20201120
-      - 🇨🇳 台湾-6.55-20201120
-      - 🇨🇳 台湾-3.64-20201120
-      - 🇨🇳 台湾-3.28-20201120
-      - 🇯🇵 日本-4.99-20201120
-      - 🇯🇵 日本-3.69-20201120
-      - 🇯🇵 日本-3.64-20201120
-      - 🇯🇵 日本-2.8-20201120
-      - 🇭🇰 欧洲-HK-20201120
-      - 🇭🇰 欧洲-HK2-20201120
-      - 欧洲-4.03-20201120
-      - 欧洲-3.83-20201120
-      - 欧洲-3.6-20201120
-      - 欧洲-2.96-20201120
-      - 欧洲-2.96-20201120 2
-      - 欧洲-2.71-20201120
-      - 欧洲-2.58-20201120
-      - 欧洲-2.46-20201120
-      - 🇭🇰 美国-HK-20201120
-      - 🇭🇰 美国-HK2-20201120
-      - 🇺🇸 美国-4.04-20201120
-      - 🇺🇸 美国-3-20201120
-      - 🇺🇸 美国-3.97-20201120
-      - 🇺🇸 美国-3.68-20201120
-      - 🇺🇸 美国-3.6-20201120
-      - 🇺🇸 美国-2.99-20201120
-      - 🇺🇸 美国-2.9-20201120
-      - 🇺🇸 美国-2.77-20201120
-      - 🇺🇸 美国-2.56-20201120
-      - 🇺🇸 美国-2.54-20201120
-      - 🇺🇸 美国-2.53-20201120
-      - 🇰🇷 韩国-2.89-20201120
+      - 🇨🇳 G01 VIP1 台湾01 Netflix|动画疯
+      - 🇨🇳 G01 VIP1 台湾02 Netflix|动画疯
+      - 🇸🇬 G01 VIP1 新加坡01 流媒体解锁
+      - 🇸🇬 G01 VIP1 新加坡02 流媒体解锁
+      - 🇸🇬 G01 VIP1 新加坡03 流媒体解锁
+      - 🇸🇬 G01 VIP1 新加坡04 流媒体解锁
+      - 🇸🇬 G01 VIP1 新加坡05 流媒体解锁
+      - 🇸🇬 G01 VIP1 新加坡06 解锁流媒体
+      - 🇯🇵 G01 VIP1 日本01 解锁流媒体
+      - 🇯🇵 G01 VIP1 日本02 解锁流媒体
+      - 🇯🇵 G01 VIP1 日本03 解锁流媒体
+      - 🇯🇵 G01 VIP1 日本04 解锁流媒体
+      - 🇺🇲 G01 VIP1 美国01 解锁流媒体
+      - 🇺🇲 G01 VIP1 美国02 解锁流媒体
+      - 🇺🇲 G01 VIP1 美国03 解锁流媒体
+      - 🇺🇲 G01 VIP1 美国04 解锁流媒体
+      - 🇭🇰 G01 VIP1 香港01 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港02 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港03 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港04 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港05 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港06 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港07 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港08 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港09 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港10 流媒体解锁
   - name: 📹 油管视频
     type: select
     proxies:
       - 🚀 节点选择
-      - 🇭🇰 香港-9.66-20201120
-      - 🇭🇰 香港-9.63-20201120
-      - 🇭🇰 香港-9.51-20201120
-      - 🇭🇰 香港-9.3-20201120
-      - 🇭🇰 香港-7.17-20201120
-      - 🇨🇳 台湾-9.76-20201120
-      - 🇨🇳 台湾-9.28-20201120
-      - 🇨🇳 台湾-8.75-20201120
-      - 🇨🇳 台湾-8.15-20201120
-      - 🇨🇳 台湾-6-20201120
-      - 🇨🇳 台湾-6.6-20201120
-      - 🇨🇳 台湾-6.55-20201120
-      - 🇨🇳 台湾-3.64-20201120
-      - 🇨🇳 台湾-3.28-20201120
-      - 🇯🇵 日本-4.99-20201120
-      - 🇯🇵 日本-3.69-20201120
-      - 🇯🇵 日本-3.64-20201120
-      - 🇯🇵 日本-2.8-20201120
-      - 🇭🇰 欧洲-HK-20201120
-      - 🇭🇰 欧洲-HK2-20201120
-      - 欧洲-4.03-20201120
-      - 欧洲-3.83-20201120
-      - 欧洲-3.6-20201120
-      - 欧洲-2.96-20201120
-      - 欧洲-2.96-20201120 2
-      - 欧洲-2.71-20201120
-      - 欧洲-2.58-20201120
-      - 欧洲-2.46-20201120
-      - 🇭🇰 美国-HK-20201120
-      - 🇭🇰 美国-HK2-20201120
-      - 🇺🇸 美国-4.04-20201120
-      - 🇺🇸 美国-3-20201120
-      - 🇺🇸 美国-3.97-20201120
-      - 🇺🇸 美国-3.68-20201120
-      - 🇺🇸 美国-3.6-20201120
-      - 🇺🇸 美国-2.99-20201120
-      - 🇺🇸 美国-2.9-20201120
-      - 🇺🇸 美国-2.77-20201120
-      - 🇺🇸 美国-2.56-20201120
-      - 🇺🇸 美国-2.54-20201120
-      - 🇺🇸 美国-2.53-20201120
-      - 🇰🇷 韩国-2.89-20201120
+      - 🇨🇳 G01 VIP1 台湾01 Netflix|动画疯
+      - 🇨🇳 G01 VIP1 台湾02 Netflix|动画疯
+      - 🇸🇬 G01 VIP1 新加坡01 流媒体解锁
+      - 🇸🇬 G01 VIP1 新加坡02 流媒体解锁
+      - 🇸🇬 G01 VIP1 新加坡03 流媒体解锁
+      - 🇸🇬 G01 VIP1 新加坡04 流媒体解锁
+      - 🇸🇬 G01 VIP1 新加坡05 流媒体解锁
+      - 🇸🇬 G01 VIP1 新加坡06 解锁流媒体
+      - 🇯🇵 G01 VIP1 日本01 解锁流媒体
+      - 🇯🇵 G01 VIP1 日本02 解锁流媒体
+      - 🇯🇵 G01 VIP1 日本03 解锁流媒体
+      - 🇯🇵 G01 VIP1 日本04 解锁流媒体
+      - 🇺🇲 G01 VIP1 美国01 解锁流媒体
+      - 🇺🇲 G01 VIP1 美国02 解锁流媒体
+      - 🇺🇲 G01 VIP1 美国03 解锁流媒体
+      - 🇺🇲 G01 VIP1 美国04 解锁流媒体
+      - 🇭🇰 G01 VIP1 香港01 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港02 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港03 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港04 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港05 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港06 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港07 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港08 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港09 流媒体解锁
+      - 🇭🇰 G01 VIP1 香港10 流媒体解锁
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -520,9 +440,9 @@ rules:
  - IP-CIDR,13.34.26.192/27,🎥 奈飞视频,no-resolve
  - IP-CIDR,13.34.27.0/25,🎥 奈飞视频,no-resolve
  - IP-CIDR,13.34.27.128/27,🎥 奈飞视频,no-resolve
- - IP-CIDR,13.34.28.0/23,🎥 奈飞视频,no-resolve
- - IP-CIDR,13.34.30.0/24,🎥 奈飞视频,no-resolve
- - IP-CIDR,13.34.31.0/25,🎥 奈飞视频,no-resolve
+ - IP-CIDR,13.34.28.0/22,🎥 奈飞视频,no-resolve
+ - IP-CIDR,13.34.32.0/25,🎥 奈飞视频,no-resolve
+ - IP-CIDR,13.34.32.128/26,🎥 奈飞视频,no-resolve
  - IP-CIDR,13.35.0.0/16,🎥 奈飞视频,no-resolve
  - IP-CIDR,13.36.0.0/14,🎥 奈飞视频,no-resolve
  - IP-CIDR,13.48.0.0/13,🎥 奈飞视频,no-resolve
@@ -588,8 +508,7 @@ rules:
  - IP-CIDR,15.230.66.0/26,🎥 奈飞视频,no-resolve
  - IP-CIDR,15.230.129.0/24,🎥 奈飞视频,no-resolve
  - IP-CIDR,15.230.130.0/24,🎥 奈飞视频,no-resolve
- - IP-CIDR,15.230.131.0/30,🎥 奈飞视频,no-resolve
- - IP-CIDR,15.230.131.4/31,🎥 奈飞视频,no-resolve
+ - IP-CIDR,15.230.131.0/29,🎥 奈飞视频,no-resolve
  - IP-CIDR,15.230.131.16/28,🎥 奈飞视频,no-resolve
  - IP-CIDR,15.230.132.0/24,🎥 奈飞视频,no-resolve
  - IP-CIDR,15.230.133.0/28,🎥 奈飞视频,no-resolve
@@ -597,6 +516,7 @@ rules:
  - IP-CIDR,15.230.136.0/23,🎥 奈飞视频,no-resolve
  - IP-CIDR,15.230.138.0/24,🎥 奈飞视频,no-resolve
  - IP-CIDR,15.230.141.0/24,🎥 奈飞视频,no-resolve
+ - IP-CIDR,15.230.142.0/23,🎥 奈飞视频,no-resolve
  - IP-CIDR,15.236.0.0/15,🎥 奈飞视频,no-resolve
  - IP-CIDR,15.253.0.0/16,🎥 奈飞视频,no-resolve
  - IP-CIDR,15.254.0.0/16,🎥 奈飞视频,no-resolve
@@ -1364,10 +1284,10 @@ rules:
  - DOMAIN-SUFFIX,dazn-api.com,🚀 节点选择
  - DOMAIN-SUFFIX,dazn.com,🚀 节点选择
  - DOMAIN-SUFFIX,dazndn.com,🚀 节点选择
+ - DOMAIN-SUFFIX,dcblivedazn.akamaized.net,🚀 节点选择
  - DOMAIN-SUFFIX,indazn.com,🚀 节点选择
  - DOMAIN-SUFFIX,indaznlab.com,🚀 节点选择
  - DOMAIN-SUFFIX,intercom.io,🚀 节点选择
- - DOMAIN-SUFFIX,optimizely.com,🚀 节点选择
  - DOMAIN-SUFFIX,sentry.io,🚀 节点选择
  - DOMAIN-SUFFIX,deezer.com,🚀 节点选择
  - DOMAIN-SUFFIX,dzcdn.net,🚀 节点选择
@@ -1801,6 +1721,7 @@ rules:
  - DOMAIN-SUFFIX,akamai.net,🚀 节点选择
  - DOMAIN-SUFFIX,akamaihd.net,🚀 节点选择
  - DOMAIN-SUFFIX,akamaistream.net,🚀 节点选择
+ - DOMAIN-SUFFIX,akamaized.net,🚀 节点选择
  - DOMAIN-SUFFIX,akiba-online.com,🚀 节点选择
  - DOMAIN-SUFFIX,akiba-web.com,🚀 节点选择
  - DOMAIN-SUFFIX,akow.org,🚀 节点选择
@@ -1816,6 +1737,7 @@ rules:
  - DOMAIN-SUFFIX,alicejapan.co.jp,🚀 节点选择
  - DOMAIN-SUFFIX,aliengu.com,🚀 节点选择
  - DOMAIN-SUFFIX,alkasir.com,🚀 节点选择
+ - DOMAIN-SUFFIX,all4mom.org,🚀 节点选择
  - DOMAIN-SUFFIX,allcoin.com,🚀 节点选择
  - DOMAIN-SUFFIX,allconnected.co,🚀 节点选择
  - DOMAIN-SUFFIX,alldrawnsex.com,🚀 节点选择
@@ -1893,6 +1815,7 @@ rules:
  - DOMAIN-SUFFIX,anws.gov.tw,🚀 节点选择
  - DOMAIN-SUFFIX,anyporn.com,🚀 节点选择
  - DOMAIN-SUFFIX,anysex.com,🚀 节点选择
+ - DOMAIN-SUFFIX,ao3.org,🚀 节点选择
  - DOMAIN-SUFFIX,aobo.com.au,🚀 节点选择
  - DOMAIN-SUFFIX,aofriend.com,🚀 节点选择
  - DOMAIN-SUFFIX,aofriend.com.au,🚀 节点选择
@@ -1910,7 +1833,7 @@ rules:
  - DOMAIN-SUFFIX,apiary.io,🚀 节点选择
  - DOMAIN-SUFFIX,apigee.com,🚀 节点选择
  - DOMAIN-SUFFIX,apk-dl.com,🚀 节点选择
- - DOMAIN-SUFFIX,apkdler.com,🚀 节点选择
+ - DOMAIN-SUFFIX,apkcombo.com,🚀 节点选择
  - DOMAIN-SUFFIX,apkmirror.com,🚀 节点选择
  - DOMAIN-SUFFIX,apkmonk.com,🚀 节点选择
  - DOMAIN-SUFFIX,apkplz.com,🚀 节点选择
@@ -1929,7 +1852,10 @@ rules:
  - DOMAIN-SUFFIX,archive.is,🚀 节点选择
  - DOMAIN-SUFFIX,archive.li,🚀 节点选择
  - DOMAIN-SUFFIX,archive.org,🚀 节点选择
+ - DOMAIN-SUFFIX,archive.ph,🚀 节点选择
  - DOMAIN-SUFFIX,archive.today,🚀 节点选择
+ - DOMAIN-SUFFIX,archiveofourown.com,🚀 节点选择
+ - DOMAIN-SUFFIX,archiveofourown.org,🚀 节点选择
  - DOMAIN-SUFFIX,archives.gov,🚀 节点选择
  - DOMAIN-SUFFIX,archives.gov.tw,🚀 节点选择
  - DOMAIN-SUFFIX,arctosia.com,🚀 节点选择
@@ -2260,6 +2186,7 @@ rules:
  - DOMAIN-SUFFIX,cactusvpn.com,🚀 节点选择
  - DOMAIN-SUFFIX,cafepress.com,🚀 节点选择
  - DOMAIN-SUFFIX,cahr.org.tw,🚀 节点选择
+ - DOMAIN-SUFFIX,caijinglengyan.com,🚀 节点选择
  - DOMAIN-SUFFIX,calameo.com,🚀 节点选择
  - DOMAIN-SUFFIX,calebelston.com,🚀 节点选择
  - DOMAIN-SUFFIX,calgarychinese.ca,🚀 节点选择
@@ -2272,6 +2199,7 @@ rules:
  - DOMAIN-SUFFIX,cam4.jp,🚀 节点选择
  - DOMAIN-SUFFIX,cam4.sg,🚀 节点选择
  - DOMAIN-SUFFIX,camfrog.com,🚀 节点选择
+ - DOMAIN-SUFFIX,campaignforuyghurs.org,🚀 节点选择
  - DOMAIN-SUFFIX,cams.com,🚀 节点选择
  - DOMAIN-SUFFIX,cams.org.sg,🚀 节点选择
  - DOMAIN-SUFFIX,canadameet.com,🚀 节点选择
@@ -2306,7 +2234,8 @@ rules:
  - DOMAIN-SUFFIX,cbc.ca,🚀 节点选择
  - DOMAIN-SUFFIX,cbsnews.com,🚀 节点选择
  - DOMAIN-SUFFIX,cbtc.org.hk,🚀 节点选择
- - DOMAIN-SUFFIX,cccat.io,🚀 节点选择
+ - DOMAIN-SUFFIX,cccat.cc,🚀 节点选择
+ - DOMAIN-SUFFIX,cccat.co,🚀 节点选择
  - DOMAIN-SUFFIX,ccdtr.org,🚀 节点选择
  - DOMAIN-SUFFIX,cchere.com,🚀 节点选择
  - DOMAIN-SUFFIX,ccim.org,🚀 节点选择
@@ -2723,6 +2652,8 @@ rules:
  - DOMAIN-SUFFIX,directcreative.com,🚀 节点选择
  - DOMAIN-SUFFIX,discoins.com,🚀 节点选择
  - DOMAIN-SUFFIX,disconnect.me,🚀 节点选择
+ - DOMAIN-SUFFIX,discord.com,🚀 节点选择
+ - DOMAIN-SUFFIX,discord.gg,🚀 节点选择
  - DOMAIN-SUFFIX,discordapp.com,🚀 节点选择
  - DOMAIN-SUFFIX,discordapp.net,🚀 节点选择
  - DOMAIN-SUFFIX,discuss.com.hk,🚀 节点选择
@@ -2809,6 +2740,7 @@ rules:
  - DOMAIN-SUFFIX,dtic.mil,🚀 节点选择
  - DOMAIN-SUFFIX,dtwang.org,🚀 节点选择
  - DOMAIN-SUFFIX,duanzhihu.com,🚀 节点选择
+ - DOMAIN-SUFFIX,dubox.com,🚀 节点选择
  - DOMAIN-SUFFIX,duck.com,🚀 节点选择
  - DOMAIN-SUFFIX,duckdns.org,🚀 节点选择
  - DOMAIN-SUFFIX,duckduckgo.com,🚀 节点选择
@@ -3214,6 +3146,7 @@ rules:
  - DOMAIN-SUFFIX,freegao.com,🚀 节点选择
  - DOMAIN-SUFFIX,freehongkong.org,🚀 节点选择
  - DOMAIN-SUFFIX,freeilhamtohti.org,🚀 节点选择
+ - DOMAIN-SUFFIX,freekazakhs.org,🚀 节点选择
  - DOMAIN-SUFFIX,freekwonpyong.org,🚀 节点选择
  - DOMAIN-SUFFIX,freelotto.com,🚀 节点选择
  - DOMAIN-SUFFIX,freeman2.com,🚀 节点选择
@@ -3299,6 +3232,7 @@ rules:
  - DOMAIN-SUFFIX,gabocorp.com,🚀 节点选择
  - DOMAIN-SUFFIX,gaeproxy.com,🚀 节点选择
  - DOMAIN-SUFFIX,gaforum.org,🚀 节点选择
+ - DOMAIN-SUFFIX,gagaoolala.com,🚀 节点选择
  - DOMAIN-SUFFIX,galaxymacau.com,🚀 节点选择
  - DOMAIN-SUFFIX,galenwu.com,🚀 节点选择
  - DOMAIN-SUFFIX,galstars.net,🚀 节点选择
@@ -3388,6 +3322,7 @@ rules:
  - DOMAIN-SUFFIX,gitbooks.io,🚀 节点选择
  - DOMAIN-SUFFIX,github.com,🚀 节点选择
  - DOMAIN-SUFFIX,github.io,🚀 节点选择
+ - DOMAIN-SUFFIX,githubassets.com,🚀 节点选择
  - DOMAIN-SUFFIX,githubusercontent.com,🚀 节点选择
  - DOMAIN-SUFFIX,gizlen.net,🚀 节点选择
  - DOMAIN-SUFFIX,gjczz.com,🚀 节点选择
@@ -3413,6 +3348,7 @@ rules:
  - DOMAIN-SUFFIX,gmll.org,🚀 节点选择
  - DOMAIN-SUFFIX,gmodules.com,🚀 节点选择
  - DOMAIN-SUFFIX,gnci.org.hk,🚀 节点选择
+ - DOMAIN-SUFFIX,gnews.org,🚀 节点选择
  - DOMAIN-SUFFIX,go-pki.com,🚀 节点选择
  - DOMAIN-SUFFIX,go141.com,🚀 节点选择
  - DOMAIN-SUFFIX,goagent.biz,🚀 节点选择
@@ -3723,6 +3659,7 @@ rules:
  - DOMAIN-SUFFIX,gstatic.com,🚀 节点选择
  - DOMAIN-SUFFIX,gtricks.com,🚀 节点选择
  - DOMAIN-SUFFIX,gts-vpn.com,🚀 节点选择
+ - DOMAIN-SUFFIX,gtv.org,🚀 节点选择
  - DOMAIN-SUFFIX,gu-chu-sum.org,🚀 节点选择
  - DOMAIN-SUFFIX,guaguass.com,🚀 节点选择
  - DOMAIN-SUFFIX,guaguass.org,🚀 节点选择
@@ -3802,6 +3739,7 @@ rules:
  - DOMAIN-SUFFIX,helpeachpeople.com,🚀 节点选择
  - DOMAIN-SUFFIX,helplinfen.com,🚀 节点选择
  - DOMAIN-SUFFIX,helpster.de,🚀 节点选择
+ - DOMAIN-SUFFIX,helpuyghursnow.org,🚀 节点选择
  - DOMAIN-SUFFIX,helpzhuling.org,🚀 节点选择
  - DOMAIN-SUFFIX,hentai.to,🚀 节点选择
  - DOMAIN-SUFFIX,hentaitube.tv,🚀 节点选择
@@ -3864,6 +3802,7 @@ rules:
  - DOMAIN-SUFFIX,hkcmi.edu,🚀 节点选择
  - DOMAIN-SUFFIX,hkcnews.com,🚀 节点选择
  - DOMAIN-SUFFIX,hkcoc.com,🚀 节点选择
+ - DOMAIN-SUFFIX,hkctu.org.hk,🚀 节点选择
  - DOMAIN-SUFFIX,hkdailynews.com.hk,🚀 节点选择
  - DOMAIN-SUFFIX,hkday.net,🚀 节点选择
  - DOMAIN-SUFFIX,hkdf.org,🚀 节点选择
@@ -3970,6 +3909,7 @@ rules:
  - DOMAIN-SUFFIX,hugoroy.eu,🚀 节点选择
  - DOMAIN-SUFFIX,huhaitai.com,🚀 节点选择
  - DOMAIN-SUFFIX,huhamhire.com,🚀 节点选择
+ - DOMAIN-SUFFIX,huhangfei.com,🚀 节点选择
  - DOMAIN-SUFFIX,huiyi.in,🚀 节点选择
  - DOMAIN-SUFFIX,hulkshare.com,🚀 节点选择
  - DOMAIN-SUFFIX,hulu.com,🚀 节点选择
@@ -4053,6 +3993,7 @@ rules:
  - DOMAIN-SUFFIX,iicns.com,🚀 节点选择
  - DOMAIN-SUFFIX,ikstar.com,🚀 节点选择
  - DOMAIN-SUFFIX,ikwb.com,🚀 节点选择
+ - DOMAIN-SUFFIX,ilhamtohtiinstitute.org,🚀 节点选择
  - DOMAIN-SUFFIX,illusionfactory.com,🚀 节点选择
  - DOMAIN-SUFFIX,ilove80.be,🚀 节点选择
  - DOMAIN-SUFFIX,ilovelongtoes.com,🚀 节点选择
@@ -4124,6 +4065,7 @@ rules:
  - DOMAIN-SUFFIX,iptv.com.tw,🚀 节点选择
  - DOMAIN-SUFFIX,iptvbin.com,🚀 节点选择
  - DOMAIN-SUFFIX,ipvanish.com,🚀 节点选择
+ - DOMAIN-SUFFIX,iqiyi.com,🚀 节点选择
  - DOMAIN-SUFFIX,iredmail.org,🚀 节点选择
  - DOMAIN-SUFFIX,irib.ir,🚀 节点选择
  - DOMAIN-SUFFIX,ironpython.net,🚀 节点选择
@@ -4276,6 +4218,7 @@ rules:
  - DOMAIN-SUFFIX,jyxf.net,🚀 节点选择
  - DOMAIN-SUFFIX,k-doujin.net,🚀 节点选择
  - DOMAIN-SUFFIX,ka-wai.com,🚀 节点选择
+ - DOMAIN-SUFFIX,kadokawa.co.jp,🚀 节点选择
  - DOMAIN-SUFFIX,kagyu.org,🚀 节点选择
  - DOMAIN-SUFFIX,kagyu.org.za,🚀 节点选择
  - DOMAIN-SUFFIX,kagyumonlam.org,🚀 节点选择
@@ -4516,6 +4459,7 @@ rules:
  - DOMAIN-SUFFIX,lyfhk.net,🚀 节点选择
  - DOMAIN-SUFFIX,lzmtnews.org,🚀 节点选择
  - DOMAIN-SUFFIX,m-sport.co.uk,🚀 节点选择
+ - DOMAIN-SUFFIX,m-team.cc,🚀 节点选择
  - DOMAIN-SUFFIX,m.me,🚀 节点选择
  - DOMAIN-SUFFIX,macgamestore.com,🚀 节点选择
  - DOMAIN-SUFFIX,macrovpn.com,🚀 节点选择
@@ -4642,6 +4586,7 @@ rules:
  - DOMAIN-SUFFIX,mimivip.com,🚀 节点选择
  - DOMAIN-SUFFIX,mimivv.com,🚀 节点选择
  - DOMAIN-SUFFIX,mindrolling.org,🚀 节点选择
+ - DOMAIN-SUFFIX,mingdemedia.org,🚀 节点选择
  - DOMAIN-SUFFIX,minghui-a.org,🚀 节点选择
  - DOMAIN-SUFFIX,minghui-b.org,🚀 节点选择
  - DOMAIN-SUFFIX,minghui-school.org,🚀 节点选择
@@ -4744,6 +4689,7 @@ rules:
  - DOMAIN-SUFFIX,mswe1.org,🚀 节点选择
  - DOMAIN-SUFFIX,mthruf.com,🚀 节点选择
  - DOMAIN-SUFFIX,mtw.tl,🚀 节点选择
+ - DOMAIN-SUFFIX,mubi.com,🚀 节点选择
  - DOMAIN-SUFFIX,muchosucko.com,🚀 节点选择
  - DOMAIN-SUFFIX,mullvad.net,🚀 节点选择
  - DOMAIN-SUFFIX,multiply.com,🚀 节点选择
@@ -4836,6 +4782,7 @@ rules:
  - DOMAIN-SUFFIX,nat.moe,🚀 节点选择
  - DOMAIN-SUFFIX,natado.com,🚀 节点选择
  - DOMAIN-SUFFIX,national-lottery.co.uk,🚀 节点选择
+ - DOMAIN-SUFFIX,nationalawakening.org,🚀 节点选择
  - DOMAIN-SUFFIX,nationalgeographic.com,🚀 节点选择
  - DOMAIN-SUFFIX,nationsonline.org,🚀 节点选择
  - DOMAIN-SUFFIX,nationwide.com,🚀 节点选择
@@ -4923,6 +4870,7 @@ rules:
  - DOMAIN-SUFFIX,ninjaproxy.ninja,🚀 节点选择
  - DOMAIN-SUFFIX,nintendium.com,🚀 节点选择
  - DOMAIN-SUFFIX,ninth.biz,🚀 节点选择
+ - DOMAIN-SUFFIX,nitter.net,🚀 节点选择
  - DOMAIN-SUFFIX,niu.moe,🚀 节点选择
  - DOMAIN-SUFFIX,niusnews.com,🚀 节点选择
  - DOMAIN-SUFFIX,njactb.org,🚀 节点选择
@@ -5072,6 +5020,7 @@ rules:
  - DOMAIN-SUFFIX,openervpn.in,🚀 节点选择
  - DOMAIN-SUFFIX,openid.net,🚀 节点选择
  - DOMAIN-SUFFIX,openleaks.org,🚀 节点选择
+ - DOMAIN-SUFFIX,opensource.google,🚀 节点选择
  - DOMAIN-SUFFIX,openvpn.net,🚀 节点选择
  - DOMAIN-SUFFIX,openvpn.org,🚀 节点选择
  - DOMAIN-SUFFIX,openwebster.com,🚀 节点选择
@@ -5140,6 +5089,8 @@ rules:
  - DOMAIN-SUFFIX,paradisehill.cc,🚀 节点选择
  - DOMAIN-SUFFIX,paradisepoker.com,🚀 节点选择
  - DOMAIN-SUFFIX,parkansky.com,🚀 节点选择
+ - DOMAIN-SUFFIX,parler.com,🚀 节点选择
+ - DOMAIN-SUFFIX,parsevideo.com,🚀 节点选择
  - DOMAIN-SUFFIX,partycasino.com,🚀 节点选择
  - DOMAIN-SUFFIX,partypoker.com,🚀 节点选择
  - DOMAIN-SUFFIX,passion.com,🚀 节点选择
@@ -5338,6 +5289,7 @@ rules:
  - DOMAIN-SUFFIX,prozz.net,🚀 节点选择
  - DOMAIN-SUFFIX,psblog.name,🚀 节点选择
  - DOMAIN-SUFFIX,pscp.tv,🚀 节点选择
+ - DOMAIN-SUFFIX,pshvpn.com,🚀 节点选择
  - DOMAIN-SUFFIX,psiphon.ca,🚀 节点选择
  - DOMAIN-SUFFIX,psiphon3.com,🚀 节点选择
  - DOMAIN-SUFFIX,psiphontoday.com,🚀 节点选择
@@ -5406,6 +5358,7 @@ rules:
  - DOMAIN-SUFFIX,ra.gg,🚀 节点选择
  - DOMAIN-SUFFIX,radicalparty.org,🚀 节点选择
  - DOMAIN-SUFFIX,radiko.jp,🚀 节点选择
+ - DOMAIN-SUFFIX,radio.garden,🚀 节点选择
  - DOMAIN-SUFFIX,radioaustralia.net.au,🚀 节点选择
  - DOMAIN-SUFFIX,radiohilight.net,🚀 节点选择
  - DOMAIN-SUFFIX,radiotime.com,🚀 节点选择
@@ -5448,6 +5401,7 @@ rules:
  - DOMAIN-SUFFIX,realitykings.com,🚀 节点选择
  - DOMAIN-SUFFIX,realraptalk.com,🚀 节点选择
  - DOMAIN-SUFFIX,realsexpass.com,🚀 节点选择
+ - DOMAIN-SUFFIX,reason.com,🚀 节点选择
  - DOMAIN-SUFFIX,rebatesrule.net,🚀 节点选择
  - DOMAIN-SUFFIX,recaptcha.net,🚀 节点选择
  - DOMAIN-SUFFIX,recordhistory.org,🚀 节点选择
@@ -5476,6 +5430,7 @@ rules:
  - DOMAIN-SUFFIX,renyurenquan.org,🚀 节点选择
  - DOMAIN-SUFFIX,rerouted.org,🚀 节点选择
  - DOMAIN-SUFFIX,resilio.com,🚀 节点选择
+ - DOMAIN-SUFFIX,resistchina.org,🚀 节点选择
  - DOMAIN-SUFFIX,retweeteffect.com,🚀 节点选择
  - DOMAIN-SUFFIX,retweetist.com,🚀 节点选择
  - DOMAIN-SUFFIX,retweetrank.com,🚀 节点选择
@@ -5675,6 +5630,7 @@ rules:
  - DOMAIN-SUFFIX,shodanhq.com,🚀 节点选择
  - DOMAIN-SUFFIX,shooshtime.com,🚀 节点选择
  - DOMAIN-SUFFIX,shop2000.com.tw,🚀 节点选择
+ - DOMAIN-SUFFIX,shopee.tw,🚀 节点选择
  - DOMAIN-SUFFIX,shopping.com,🚀 节点选择
  - DOMAIN-SUFFIX,showhaotu.com,🚀 节点选择
  - DOMAIN-SUFFIX,showtime.jp,🚀 节点选择
@@ -5851,6 +5807,7 @@ rules:
  - DOMAIN-SUFFIX,stackoverflow.com,🚀 节点选择
  - DOMAIN-SUFFIX,stage64.hk,🚀 节点选择
  - DOMAIN-SUFFIX,standupfortibet.org,🚀 节点选择
+ - DOMAIN-SUFFIX,standwithhk.org,🚀 节点选择
  - DOMAIN-SUFFIX,stanford.edu,🚀 节点选择
  - DOMAIN-SUFFIX,starfishfx.com,🚀 节点选择
  - DOMAIN-SUFFIX,starp2p.com,🚀 节点选择
@@ -6033,6 +5990,7 @@ rules:
  - DOMAIN-SUFFIX,teeniefuck.net,🚀 节点选择
  - DOMAIN-SUFFIX,teensinasia.com,🚀 节点选择
  - DOMAIN-SUFFIX,telecomspace.com,🚀 节点选择
+ - DOMAIN-SUFFIX,telegra.ph,🚀 节点选择
  - DOMAIN-SUFFIX,telegram.dog,🚀 节点选择
  - DOMAIN-SUFFIX,telegram.me,🚀 节点选择
  - DOMAIN-SUFFIX,telegram.org,🚀 节点选择
@@ -6044,7 +6002,6 @@ rules:
  - DOMAIN-SUFFIX,tensorflow.org,🚀 节点选择
  - DOMAIN-SUFFIX,tenzinpalmo.com,🚀 节点选择
  - DOMAIN-SUFFIX,tew.org,🚀 节点选择
- - DOMAIN-SUFFIX,textnow.com,🚀 节点选择
  - DOMAIN-SUFFIX,textnow.me,🚀 节点选择
  - DOMAIN-SUFFIX,tfhub.dev,🚀 节点选择
  - DOMAIN-SUFFIX,thaicn.com,🚀 节点选择
@@ -6110,7 +6067,6 @@ rules:
  - DOMAIN-SUFFIX,tibet-envoy.eu,🚀 节点选择
  - DOMAIN-SUFFIX,tibet-foundation.org,🚀 节点选择
  - DOMAIN-SUFFIX,tibet-house-trust.co.uk,🚀 节点选择
- - DOMAIN-SUFFIX,tibet-info.net,🚀 节点选择
  - DOMAIN-SUFFIX,tibet-initiative.de,🚀 节点选择
  - DOMAIN-SUFFIX,tibet-munich.de,🚀 节点选择
  - DOMAIN-SUFFIX,tibet.a.se,🚀 节点选择
@@ -6315,6 +6271,7 @@ rules:
  - DOMAIN-SUFFIX,turbobit.net,🚀 节点选择
  - DOMAIN-SUFFIX,turbohide.com,🚀 节点选择
  - DOMAIN-SUFFIX,turbotwitter.com,🚀 节点选择
+ - DOMAIN-SUFFIX,turkistantimes.com,🚀 节点选择
  - DOMAIN-SUFFIX,turntable.fm,🚀 节点选择
  - DOMAIN-SUFFIX,tushycash.com,🚀 节点选择
  - DOMAIN-SUFFIX,tutanota.com,🚀 节点选择
@@ -6783,6 +6740,7 @@ rules:
  - DOMAIN-SUFFIX,wingy.site,🚀 节点选择
  - DOMAIN-SUFFIX,winning11.com,🚀 节点选择
  - DOMAIN-SUFFIX,winwhispers.info,🚀 节点选择
+ - DOMAIN-SUFFIX,wionews.com,🚀 节点选择
  - DOMAIN-SUFFIX,wire.com,🚀 节点选择
  - DOMAIN-SUFFIX,wiredbytes.com,🚀 节点选择
  - DOMAIN-SUFFIX,wiredpen.com,🚀 节点选择
