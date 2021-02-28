@@ -33,7 +33,7 @@ surge_ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SS
 surge_ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
 surge_ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
 
-;国内-直连
+;国内IP-直连
 surge_ruleset=🎯 全球直连,[]GEOIP,CN
 
 ;末匹配-代理
