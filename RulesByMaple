@@ -3,7 +3,7 @@
 
 
 ;Maple定义-直连
-ruleset=🚀 节点选择,https://raw.githubusercontent.com/MapleWow/MapleWow/main/DirectListByMaple
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/MapleWow/MapleWow/main/DirectListByMaple
 
 ;Maple定义-代理
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/MapleWow/MapleWow/main/ProxyListByMaple
