@@ -1,6 +1,4 @@
 [custom]
-;不要随意改变关键字，否则会导致出错
-
 
 ;Maple定义-直连
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/MapleWow/MapleWow/main/DirectListByMaple
@@ -53,7 +51,7 @@ custom_proxy_group=♻️ 自动选择`url-test`.*`http://www.gstatic.com/genera
 custom_proxy_group=🎥 奈飞视频`select`[]🚀 节点选择`.*
 custom_proxy_group=📹 油管视频`select`[]🚀 节点选择`.*
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 节点选择
-custom_proxy_group=🐟 漏网之鱼`select`[]🚀 节点选择`[]DIRECT
+custom_proxy_group=🐟 漏网之鱼`select`[]DIRECT`[]🚀 节点选择
 
 enable_rule_generator=true
 overwrite_original_rules=true
