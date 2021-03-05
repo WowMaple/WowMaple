@@ -3,6 +3,8 @@ DOMAIN-SUFFIX,onedrive.live.com
 
 #忍者云
 DOMAIN-SUFFIX,renzhe.cloud
+DOMAIN-SUFFIX,renzhecloud.link
+DOMAIN-SUFFIX,crisp.help
 DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflareinsights.com
