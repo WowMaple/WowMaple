@@ -6,7 +6,7 @@ log-level: info
 external-controller: :9090
 proxies:
   - {name: 🇰🇷 OC-韩国01, server: 193.123.238.193, port: 6954, type: vmess, uuid: bf3eb95e-c4e9-4e18-8042-535de8e2fde2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇰🇷 OC-韩国02, server: 132.226.19.231, port: 8712, type: vmess, uuid: 0268ef83-ef9c-4823-9e25-adb1d396ef81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇰🇷 OC-韩国02, server: 132.226.19.189, port: 6954, type: vmess, uuid: 8d0dba94-cfa0-40b3-96e6-db4e65074742, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
