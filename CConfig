@@ -5,8 +5,8 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 🇰🇷 OC-韩国01, server: 193.123.238.193, port: 6954, type: vmess, uuid: bf3eb95e-c4e9-4e18-8042-535de8e2fde2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇰🇷 OC-韩国02, server: 132.226.19.189, port: 6954, type: vmess, uuid: 8d0dba94-cfa0-40b3-96e6-db4e65074742, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇰🇷 ★OC-韩国01, server: 193.123.238.193, port: 6954, type: vmess, uuid: bf3eb95e-c4e9-4e18-8042-535de8e2fde2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: 🇰🇷 ★OC-韩国02, server: 132.226.19.189, port: 6954, type: vmess, uuid: 8d0dba94-cfa0-40b3-96e6-db4e65074742, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
   - {name: 🇨🇳 VIP2 A组 台湾01 流媒体解锁, server: vltrcrzgjolaiboe947k.popocloudrelayserver.online, port: 10037, type: vmess, uuid: d522936f-e484-0823-07da-a7fb837396a8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
   - {name: 🇨🇳 VIP2 A组 台湾02 流媒体解锁, server: vltrcrzgjolaiboe947k.popocloudrelayserver.online, port: 10038, type: vmess, uuid: d522936f-e484-0823-07da-a7fb837396a8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
   - {name: 🇨🇳 VIP2 A组 台湾03 流媒体解锁, server: vltrcrzgjolaiboe947k.popocloudrelayserver.online, port: 10039, type: vmess, uuid: d522936f-e484-0823-07da-a7fb837396a8, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: download.windowsupdate.com}}
@@ -137,8 +137,8 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇰🇷 OC-韩国01
-      - 🇰🇷 OC-韩国02
+      - 🇰🇷 ★OC-韩国01
+      - 🇰🇷 ★OC-韩国02
       - 🇨🇳 VIP2 A组 台湾01 流媒体解锁
       - 🇨🇳 VIP2 A组 台湾02 流媒体解锁
       - 🇨🇳 VIP2 A组 台湾03 流媒体解锁
@@ -268,8 +268,8 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🇰🇷 OC-韩国01
-      - 🇰🇷 OC-韩国02
+      - 🇰🇷 ★OC-韩国01
+      - 🇰🇷 ★OC-韩国02
       - 🇨🇳 VIP2 A组 台湾01 流媒体解锁
       - 🇨🇳 VIP2 A组 台湾02 流媒体解锁
       - 🇨🇳 VIP2 A组 台湾03 流媒体解锁
@@ -398,8 +398,8 @@ proxy-groups:
     type: select
     proxies:
       - 🚀 节点选择
-      - 🇰🇷 OC-韩国01
-      - 🇰🇷 OC-韩国02
+      - 🇰🇷 ★OC-韩国01
+      - 🇰🇷 ★OC-韩国02
       - 🇨🇳 VIP2 A组 台湾01 流媒体解锁
       - 🇨🇳 VIP2 A组 台湾02 流媒体解锁
       - 🇨🇳 VIP2 A组 台湾03 流媒体解锁
@@ -528,8 +528,8 @@ proxy-groups:
     type: select
     proxies:
       - 🚀 节点选择
-      - 🇰🇷 OC-韩国01
-      - 🇰🇷 OC-韩国02
+      - 🇰🇷 ★OC-韩国01
+      - 🇰🇷 ★OC-韩国02
       - 🇨🇳 VIP2 A组 台湾01 流媒体解锁
       - 🇨🇳 VIP2 A组 台湾02 流媒体解锁
       - 🇨🇳 VIP2 A组 台湾03 流媒体解锁
@@ -1753,12 +1753,14 @@ rules:
  - DOMAIN-SUFFIX,apple-cloudkit.com,🍎 苹果服务
  - DOMAIN-SUFFIX,apple.co,🍎 苹果服务
  - DOMAIN-SUFFIX,apple.com,🍎 苹果服务
+ - DOMAIN-SUFFIX,apple.com.cn,🍎 苹果服务
  - DOMAIN-SUFFIX,apple.news,🍎 苹果服务
  - DOMAIN-SUFFIX,appstore.com,🍎 苹果服务
  - DOMAIN-SUFFIX,cdn-apple.com,🍎 苹果服务
  - DOMAIN-SUFFIX,crashlytics.com,🍎 苹果服务
  - DOMAIN-SUFFIX,icloud-content.com,🍎 苹果服务
  - DOMAIN-SUFFIX,icloud.com,🍎 苹果服务
+ - DOMAIN-SUFFIX,icloud.com.cn,🍎 苹果服务
  - DOMAIN-SUFFIX,itunes.com,🍎 苹果服务
  - DOMAIN-SUFFIX,me.com,🍎 苹果服务
  - DOMAIN-SUFFIX,mzstatic.com,🍎 苹果服务
@@ -2010,15 +2012,6 @@ rules:
  - DOMAIN-SUFFIX,foxdcg.com,🚀 节点选择
  - DOMAIN-SUFFIX,theplatform.com,🚀 节点选择
  - DOMAIN-SUFFIX,uplynk.com,🚀 节点选择
- - DOMAIN,cdn-fox-networks-group-green.akamaized.net,🚀 节点选择
- - DOMAIN,d3cv4a9a9wh0bt.cloudfront.net,🚀 节点选择
- - DOMAIN,foxsports01-i.akamaihd.net,🚀 节点选择
- - DOMAIN,foxsports02-i.akamaihd.net,🚀 节点选择
- - DOMAIN,foxsports03-i.akamaihd.net,🚀 节点选择
- - DOMAIN,staticasiafox.akamaized.net,🚀 节点选择
- - DOMAIN-SUFFIX,akamaized.net,🚀 节点选择
- - DOMAIN-SUFFIX,foxplus.com,🚀 节点选择
- - DOMAIN-SUFFIX,theplatform.com,🚀 节点选择
  - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,🚀 节点选择
  - DOMAIN,bcbolthboa-a.akamaihd.net,🚀 节点选择
  - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,🚀 节点选择
@@ -2159,6 +2152,7 @@ rules:
  - DOMAIN-SUFFIX,scdn.co,🚀 节点选择
  - DOMAIN-SUFFIX,spoti.fi,🚀 节点选择
  - DOMAIN-SUFFIX,spotify.com,🚀 节点选择
+ - DOMAIN-SUFFIX,spotifycdn.com,🚀 节点选择
  - DOMAIN-SUFFIX,spotifycdn.net,🚀 节点选择
  - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com,🚀 节点选择
  - DOMAIN-SUFFIX,tidal.com,🚀 节点选择
