@@ -1,10 +1,10 @@
 [custom]
 
 ;Maple定义-代理
-ruleset=🚀 节点选择,https://raw.githubusercontent.com/MapleWow/MapleWow/main/ProxyListByMaple
+ruleset=🚀 节点选择,https://raw.githubusercontent.com/MapleWow/MapleWow/main/ProxyListByMaple.list
 
 ;Maple定义-直连
-ruleset=🎯 全球直连,https://raw.githubusercontent.com/MapleWow/MapleWow/main/DirectListByMaple
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/MapleWow/MapleWow/main/DirectListByMaple.list
 
 ;本地地址-直连
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
