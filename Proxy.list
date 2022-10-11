@@ -1,4 +1,30 @@
+# 谷歌相关
+USER-AGENT,*youtube*
+USER-AGENT,YouTube*
+USER-AGENT,com.google.ios.youtube*
+DOMAIN-KEYWORD,youtube
+DOMAIN,youtubei.googleapis.com
+DOMAIN,yt3.ggpht.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,withyoutube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtubeeducation.com
+DOMAIN-SUFFIX,youtubegaming.com
+DOMAIN-SUFFIX,youtubekids.com
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,ytimg.com
+IP-CIDR,8.8.8.8/32
+
+# 微软相关
 DOMAIN-SUFFIX,live.com
+
+# CloudFlare
+IP-CIDR,1.1.1.1/32
+
+# 其它
 DOMAIN-SUFFIX,wordpress.com
 DOMAIN-SUFFIX,bozai.me
 DOMAIN-SUFFIX,v2rayssr.com
@@ -6,4 +32,4 @@ DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,remove.bg
 DOMAIN-SUFFIX,wpastra.com
 DOMAIN-SUFFIX,renzhe.com
-IP-CIDR,1.1.1.1/32
+
