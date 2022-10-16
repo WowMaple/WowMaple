@@ -6,6 +6,8 @@ IP-CIDR,1.1.1.1/32
 
 # 影音
 DOMAIN-SUFFIX,cia123.com
+DOMAIN-KEYWORD,dandanzan
+DOMAIN-KEYWORD,nunuyy
 
 # 其它
 DOMAIN-SUFFIX,wordpress.com
