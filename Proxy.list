@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,live.com
 # CloudFlare
 IP-CIDR,1.1.1.1/32
 
+# 影音
+DOMAIN-SUFFIX,cia123.com
+
 # 其它
 DOMAIN-SUFFIX,wordpress.com
 DOMAIN-SUFFIX,bozai.me
