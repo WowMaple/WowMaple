@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,live.com
 
 # CloudFlare
 IP-CIDR,1.1.1.1/32
+IP-CIDR,8.8.8.8/32
 
 # 影音
 DOMAIN-SUFFIX,cia123.com
