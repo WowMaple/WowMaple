@@ -1,6 +1,6 @@
 DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,wordpress.com
-DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-KEYWORD,wordpress
+DOMAIN-KEYWORD,cloudflare
 
 IP-CIDR,1.1.1.1/32
 IP-CIDR,8.8.8.8/32
