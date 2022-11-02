@@ -1,17 +1,15 @@
-# 微软相关
 DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,wordpress.com
+DOMAIN-SUFFIX,cloudflare.com
 
 IP-CIDR,1.1.1.1/32
 IP-CIDR,8.8.8.8/32
 
-# 影音
 DOMAIN-SUFFIX,cia123.com
 DOMAIN-KEYWORD,dandanzan
 DOMAIN-KEYWORD,nunuyy
 DOMAIN-KEYWORD,ddys
 
-# 其它
-DOMAIN-SUFFIX,wordpress.com
 DOMAIN-SUFFIX,bozai.me
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,bulianglin.com
