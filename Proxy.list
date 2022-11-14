@@ -11,6 +11,8 @@ DOMAIN-KEYWORD,stripe
 
 DOMAIN-SUFFIX,msn.cn
 
+DOMAIN-SUFFIX,namesilo.com
+
 
 IP-CIDR,1.1.1.1/32
 IP-CIDR,8.8.8.8/32
