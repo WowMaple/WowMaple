@@ -9,6 +9,8 @@ DOMAIN-KEYWORD,mktoresp
 DOMAIN-KEYWORD,company-target
 DOMAIN-KEYWORD,stripe
 
+DOMAIN-SUFFIX,msn.cn
+
 
 IP-CIDR,1.1.1.1/32
 IP-CIDR,8.8.8.8/32
