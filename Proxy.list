@@ -1,4 +1,6 @@
-DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,login.live.com
+
 DOMAIN-KEYWORD,wordpress
 
 # cloudflare
