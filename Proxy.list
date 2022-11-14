@@ -1,6 +1,13 @@
 DOMAIN-SUFFIX,live.com
 DOMAIN-KEYWORD,wordpress
+
+# cloudflare
 DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,rlcdn
+DOMAIN-KEYWORD,bidr
+DOMAIN-KEYWORD,mktoresp
+DOMAIN-KEYWORD,company-target
+
 
 IP-CIDR,1.1.1.1/32
 IP-CIDR,8.8.8.8/32
