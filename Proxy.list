@@ -5,21 +5,10 @@ DOMAIN-SUFFIX,login.live.com
 # wordpress
 DOMAIN-KEYWORD,wordpress
 
-# cloudflare
-DOMAIN-KEYWORD,cloudflare
-DOMAIN-KEYWORD,rlcdn
-DOMAIN-KEYWORD,bidr
-DOMAIN-KEYWORD,mktoresp
-DOMAIN-KEYWORD,company-target
-DOMAIN-KEYWORD,stripe
 
 DOMAIN-SUFFIX,msn.cn
 
 DOMAIN-SUFFIX,namesilo.com
-
-
-IP-CIDR,1.1.1.1/32
-IP-CIDR,8.8.8.8/32
 
 DOMAIN-SUFFIX,cia123.com
 DOMAIN-KEYWORD,dandanzan
