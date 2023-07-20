@@ -1,5 +1,6 @@
 # OneDrive数据传输
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,l-msedge
+DOMAIN-KEYWORD,skydrive
 DOMAIN-SUFFIX,api.onedrive.com
 DOMAIN-SUFFIX,storage.live.com
