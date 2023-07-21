@@ -2,16 +2,17 @@
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,login.live.com
 
-# wordpress
+# CloudFlare
+DOMAIN-KEYWORD,cloudflare
+
+# Wordpress
 DOMAIN-KEYWORD,wordpress
 
-DOMAIN-KEYWORD,tracker
-
+# OpenAI
 DOMAIN-KEYWORD,openai
 
-DOMAIN-SUFFIX,msn.cn
 
-
+# Other
 DOMAIN-SUFFIX,cia123.com
 DOMAIN-KEYWORD,dandanzan
 DOMAIN-KEYWORD,nunuyy
