@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,login.live.com
 # CloudFlare
 DOMAIN-KEYWORD,cloudflare
 
+# Temu
+DOMAIN-KEYWORD,temu
+
 # Wordpress
 DOMAIN-KEYWORD,wordpress
 
