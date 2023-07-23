@@ -1,19 +1,6 @@
-# Google
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,youtube
-
-# Twitter
-DOMAIN-KEYWORD,twitter
-
-# Facebook
-DOMAIN-KEYWORD,facebook
-
 # OneDrive网页登陆
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,login.live.com
-
-# Netflix
-DOMAIN-KEYWORD,netflix
 
 # CloudFlare
 DOMAIN-KEYWORD,cloudflare
@@ -26,19 +13,21 @@ DOMAIN-KEYWORD,wordpress
 
 # OpenAI
 DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,ai.com
 
 
 # Other
 DOMAIN-SUFFIX,cia123.com
-DOMAIN-KEYWORD,dandanzan
-DOMAIN-KEYWORD,nunuyy
-DOMAIN-KEYWORD,ddys
-
 DOMAIN-SUFFIX,bozai.me
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,remove.bg
 DOMAIN-SUFFIX,wpastra.com
+
+DOMAIN-KEYWORD,dandanzan
+DOMAIN-KEYWORD,nunuyy
+DOMAIN-KEYWORD,ddys
 DOMAIN-KEYWORD,renzhe
 DOMAIN-KEYWORD,91p
 
