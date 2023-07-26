@@ -11,14 +11,6 @@ DOMAIN-KEYWORD,temu
 # Wordpress
 DOMAIN-KEYWORD,wordpress
 
-# Amazon
-DOMAIN-KEYWORD,amazon
-
-# OpenAI
-DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,ai.com
-
 
 # Other
 DOMAIN-SUFFIX,cia123.com
