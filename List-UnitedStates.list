@@ -8,3 +8,6 @@ DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,ai.com
+
+# Temu
+DOMAIN-KEYWORD,temu
