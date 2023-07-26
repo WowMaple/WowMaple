@@ -1,2 +1,10 @@
 # T-Mobile
 DOMAIN-KEYWORD,t-mobile
+
+# Amazon
+DOMAIN-KEYWORD,amazon
+
+# OpenAI
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,ai.com
