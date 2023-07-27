@@ -5,6 +5,15 @@ DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,go-mpulse.net
+DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,akstat.io
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,onetrust.com
+DOMAIN-SUFFIX,qualtrics.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,adsrvr.org
+DOMAIN-SUFFIX,sc-static.net
+
 
 # Amazon
 DOMAIN-KEYWORD,amazon
