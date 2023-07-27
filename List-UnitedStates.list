@@ -17,7 +17,8 @@ DOMAIN-SUFFIX,tigcdn.com
 DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,quantummetric.com
 DOMAIN-SUFFIX,tapad.com
-
+DOMAIN-SUFFIX,adroll.com
+DOMAIN-SUFFIX,invoca.net
 
 # Amazon
 DOMAIN-KEYWORD,amazon
