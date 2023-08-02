@@ -2,6 +2,9 @@
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,login.live.com
 
+# Tiktok
+DOMAIN-KEYWORD,tiktok
+
 # CloudFlare
 DOMAIN-KEYWORD,cloudflare
 
