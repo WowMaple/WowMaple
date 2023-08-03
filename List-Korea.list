@@ -8,9 +8,6 @@ DOMAIN-KEYWORD,tiktok
 # CloudFlare
 DOMAIN-KEYWORD,cloudflare
 
-# Wordpress
-DOMAIN-KEYWORD,wordpress
-
 
 # Other
 DOMAIN-SUFFIX,cia123.com
