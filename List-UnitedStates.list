@@ -3,43 +3,9 @@ DOMAIN-KEYWORD,t-mobile
 DOMAIN-KEYWORD,tmobile
 DOMAIN-KEYWORD,3gppnetwork
 IP-CIDR,208.54.0.0/16
-DOMAIN-SUFFIX,adobedtm.com
-DOMAIN-SUFFIX,demdex.net
-DOMAIN-SUFFIX,omtrdc.net
-DOMAIN-SUFFIX,go-mpulse.net
-DOMAIN-SUFFIX,unpkg.com
-DOMAIN-SUFFIX,akstat.io
-DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,onetrust.com
-DOMAIN-SUFFIX,qualtrics.com
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,adsrvr.org
-DOMAIN-SUFFIX,sc-static.net
-DOMAIN-SUFFIX,tigcdn.com
-DOMAIN-SUFFIX,liveperson.net
-DOMAIN-SUFFIX,quantummetric.com
-DOMAIN-SUFFIX,tapad.com
-DOMAIN-SUFFIX,adroll.com
-DOMAIN-SUFFIX,invoca.net
-DOMAIN-SUFFIX,invocacdn.com
-DOMAIN-SUFFIX,tiqcdn.com
-DOMAIN-SUFFIX,ispot.tv
-DOMAIN-SUFFIX,jivox.com
-DOMAIN-SUFFIX,exelator.com
-DOMAIN-SUFFIX,turn.com
-DOMAIN-SUFFIX,tvpixel.com
-DOMAIN-SUFFIX,lpsnmedia.net
-DOMAIN-SUFFIX,convertlanguage.com
-DOMAIN-SUFFIX,hashcat.net
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,iesnare.com
-DOMAIN-SUFFIX,cookielaw.org
-DOMAIN-SUFFIX,360yield.com
-DOMAIN-SUFFIX,rubiconproject.com
-
 
 # Amazon
-DOMAIN-KEYWORD,amazon
+DOMAIN-SUFFIX,amazon.com
 
 # OpenAI
 DOMAIN-KEYWORD,openai
