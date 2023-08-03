@@ -2,6 +2,7 @@
 DOMAIN-KEYWORD,t-mobile
 DOMAIN-KEYWORD,tmobile
 DOMAIN-KEYWORD,3gppnetwork
+IP-CIDR,208.54.0.0/16
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,omtrdc.net
