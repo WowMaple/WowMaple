@@ -1,8 +1,6 @@
 # T-Mobile
-DOMAIN-KEYWORD,t-mobile
-DOMAIN-KEYWORD,tmobile
-DOMAIN-KEYWORD,3gppnetwork
-IP-CIDR,208.54.0.0/16
+#DOMAIN-KEYWORD,t-mobile
+#DOMAIN-KEYWORD,tmobile
 
 # Amazon
 DOMAIN-SUFFIX,amazon.com
