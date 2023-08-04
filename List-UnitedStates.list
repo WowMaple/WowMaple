@@ -1,6 +1,7 @@
 # T-Mobile
-#DOMAIN-KEYWORD,t-mobile
-#DOMAIN-KEYWORD,tmobile
+DOMAIN-KEYWORD,t-mobile
+DOMAIN-KEYWORD,tmobile
+DOMAIN-SUFFIX,3gppnetwork.org
 
 # Amazon
 DOMAIN-SUFFIX,amazon.com
