@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,login.live.com
 DOMAIN-KEYWORD,tiktok
 
 # CloudFlare
-DOMAIN-KEYWORD,cloudflare
+#DOMAIN-KEYWORD,cloudflare
 
 
 # Other
