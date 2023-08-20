@@ -5,10 +5,6 @@ DOMAIN-SUFFIX,login.live.com
 # Tiktok
 DOMAIN-KEYWORD,tiktok
 
-# CloudFlare
-#DOMAIN-KEYWORD,cloudflare
-
-
 # Other
 DOMAIN-SUFFIX,cia123.com
 DOMAIN-SUFFIX,bozai.me
