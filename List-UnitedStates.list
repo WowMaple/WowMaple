@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,amazon.com
 
 # OpenAI
 DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,challenges.cloudflare.com
+# DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,ai.com
 
 # Temu
