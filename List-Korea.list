@@ -8,6 +8,9 @@ DOMAIN-KEYWORD,tiktok
 # CloudFlare
 DOMAIN-KEYWORD,cloudflare
 
+# Freenom
+DOMAIN-SUFFIX,freenom.com
+
 # Other
 DOMAIN-SUFFIX,cia123.com
 DOMAIN-SUFFIX,bozai.me
