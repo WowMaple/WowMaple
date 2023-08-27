@@ -11,6 +11,8 @@ DOMAIN-KEYWORD,cloudflare
 # Freenom
 DOMAIN-KEYWORD,freenom
 
+
+
 # Other
 DOMAIN-SUFFIX,cia123.com
 DOMAIN-SUFFIX,bozai.me
@@ -18,7 +20,10 @@ DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,remove.bg
 DOMAIN-SUFFIX,wpastra.com
+
 DOMAIN-SUFFIX,ipinfo.io
+
+DOMAIN-SUFFIX,extrabux.com
 
 DOMAIN-KEYWORD,dandanzan
 DOMAIN-KEYWORD,nunuyy
