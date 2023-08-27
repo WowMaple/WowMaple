@@ -10,5 +10,8 @@ DOMAIN-KEYWORD,openai
 # DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,ai.com
 
+# x
+DOMAIN-SUFFIX,x.com
+
 # Temu
 DOMAIN-KEYWORD,temu
