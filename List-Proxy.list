@@ -2,26 +2,45 @@
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,login.live.com
 
+# Google
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,youtube
+
+# PayPal
+DOMAIN-KEYWORD,paypal
+
 # T-Mobile
 DOMAIN-KEYWORD,t-mobile
 DOMAIN-KEYWORD,tmobile
 
+# CloudFlare
+DOMAIN-KEYWORD,cloudflare
+
 # Amazon
 DOMAIN-KEYWORD,amazon
 
-# Tiktok
-DOMAIN-KEYWORD,tiktok
+# X(Twitter)
+DOMAIN-SUFFIX,x.com
+DOMAIN-KEYWORD,twitter
 
-# CloudFlare
-DOMAIN-KEYWORD,cloudflare
+# Facebook
+DOMAIN-KEYWORD,fackbook
+
+# Github
+DOMAIN-KEYWORD,github
 
 # OpenAI ChatGPT
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,ai.com
 
-# X(Twitter)
-DOMAIN-SUFFIX,x.com
-DOMAIN-KEYWORD,twitter
+# Waltmart
+DOMAIN-KEYWORD,waltmart
+
+# Tiktok
+DOMAIN-KEYWORD,tiktok
+
+# Netflix
+DOMAIN-KEYWORD,netflix
 
 # Temu
 DOMAIN-KEYWORD,temu
