@@ -2,29 +2,42 @@
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,login.live.com
 
+# T-Mobile
+DOMAIN-KEYWORD,t-mobile
+DOMAIN-KEYWORD,tmobile
+
+# Amazon
+DOMAIN-KEYWORD,amazon
+
 # Tiktok
 DOMAIN-KEYWORD,tiktok
 
 # CloudFlare
 DOMAIN-KEYWORD,cloudflare
 
-# Freenom
-DOMAIN-KEYWORD,freenom
+# OpenAI ChatGPT
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,ai.com
 
+# X(Twitter)
+DOMAIN-SUFFIX,x.com
+DOMAIN-KEYWORD,twitter
 
+# Temu
+DOMAIN-KEYWORD,temu
+
+# ipinfo
+DOMAIN-SUFFIX,ipinfo.io
 
 # Other
+DOMAIN-KEYWORD,freenom
 DOMAIN-SUFFIX,cia123.com
 DOMAIN-SUFFIX,bozai.me
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,remove.bg
 DOMAIN-SUFFIX,wpastra.com
-
-DOMAIN-SUFFIX,ipinfo.io
-
 DOMAIN-SUFFIX,extrabux.com
-
 DOMAIN-KEYWORD,dandanzan
 DOMAIN-KEYWORD,nunuyy
 DOMAIN-KEYWORD,ddys
