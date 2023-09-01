@@ -18,6 +18,9 @@ DOMAIN-KEYWORD,cloudflare
 # Amazon
 DOMAIN-KEYWORD,amazon
 
+# WaltMart
+DOMAIN-SUFFIX,walmart.com
+
 # X(Twitter)
 DOMAIN-SUFFIX,x.com
 DOMAIN-KEYWORD,twitter
