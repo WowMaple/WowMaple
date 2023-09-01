@@ -1,7 +1,6 @@
 # Microsoft
 DOMAIN-KEYWORD,microsoft
-DOMAIN-SUFFIX,onedrive.live.com
-DOMAIN-SUFFIX,login.live.com
+DOMAIN-SUFFIX,live.com
 
 # Google
 DOMAIN-KEYWORD,google
