@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,live.com
 # Google
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,cloud.cupronickel.goog
+DOMAIN-KEYWORD,g-tun
 
 # PayPal
 DOMAIN-KEYWORD,paypal
