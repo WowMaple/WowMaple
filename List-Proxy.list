@@ -1,5 +1,6 @@
 # Microsoft
 DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,bing.com
 
 # Google
 DOMAIN-KEYWORD,google
@@ -18,6 +19,18 @@ DOMAIN-KEYWORD,tmobile
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,cookielaw.org
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,cedexis-test.com
+DOMAIN-SUFFIX,1e100cdn.net
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,ptcfc.com
+DOMAIN-SUFFIX,omtrdc.net
+DOMAIN-SUFFIX,driftt.com
+DOMAIN-SUFFIX,omtrdc.net
+DOMAIN-SUFFIX,6sc.co
+DOMAIN-SUFFIX,rlcdn.com
+DOMAIN-SUFFIX,doubleclick.net
 
 # Amazon
 DOMAIN-KEYWORD,amazon
