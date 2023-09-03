@@ -16,6 +16,7 @@ DOMAIN-KEYWORD,tmobile
 
 # CloudFlare
 DOMAIN-KEYWORD,cloudflare
+DOMAIN-SUFFIX,onetrust.com
 
 # Amazon
 DOMAIN-KEYWORD,amazon
