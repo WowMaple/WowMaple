@@ -22,9 +22,6 @@ DOMAIN-SUFFIX,cookielaw.org
 # Amazon
 DOMAIN-KEYWORD,amazon
 
-# WaltMart
-DOMAIN-SUFFIX,walmart.com
-
 # X(Twitter)
 DOMAIN-SUFFIX,x.com
 DOMAIN-KEYWORD,twitter
@@ -40,8 +37,8 @@ DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,ai.com
 
-# Waltmart
-DOMAIN-KEYWORD,waltmart
+# WaltMart
+DOMAIN-SUFFIX,walmart.com
 
 # Tiktok
 DOMAIN-KEYWORD,tiktok
