@@ -30,6 +30,9 @@ DOMAIN-SUFFIX,meta.com
 
 # OpenAI ChatGPT
 DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,sentry.io
 
 # WaltMart
 DOMAIN-SUFFIX,walmart.com
