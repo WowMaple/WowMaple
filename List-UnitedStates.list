@@ -26,9 +26,6 @@ DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,fackbook
 DOMAIN-KEYWORD,fbcdn
 
-# Github
-DOMAIN-KEYWORD,github
-
 # OpenAI ChatGPT
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,ai.com
@@ -38,9 +35,6 @@ DOMAIN-SUFFIX,walmart.com
 
 # Tiktok
 DOMAIN-KEYWORD,tiktok
-
-# Netflix
-DOMAIN-KEYWORD,netflix
 
 # Temu
 DOMAIN-KEYWORD,temu
@@ -68,17 +62,6 @@ DOMAIN-SUFFIX,doubleclick.net
 
 # Other
 DOMAIN-KEYWORD,freenom
-DOMAIN-SUFFIX,cia123.com
-DOMAIN-SUFFIX,bozai.me
-DOMAIN-SUFFIX,v2rayssr.com
-DOMAIN-SUFFIX,remove.bg
-DOMAIN-SUFFIX,wpastra.com
-DOMAIN-SUFFIX,extrabux.com
-DOMAIN-KEYWORD,dandanzan
-DOMAIN-KEYWORD,nunuyy
-DOMAIN-KEYWORD,ddys
-DOMAIN-KEYWORD,renzhe
 DOMAIN-KEYWORD,91p
-DOMAIN-KEYWORD,paipancon
-DOMAIN-SUFFIX,bulianglin.com
+
 
