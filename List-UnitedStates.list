@@ -22,9 +22,11 @@ DOMAIN-KEYWORD,amazon
 DOMAIN-SUFFIX,x.com
 DOMAIN-KEYWORD,twitter
 
-# Facebook
+# Meta
 DOMAIN-KEYWORD,fackbook
 DOMAIN-KEYWORD,fbcdn
+DOMAIN-KEYWORD,instagram
+DOMAIN-SUFFIX,meta.com
 
 # OpenAI ChatGPT
 DOMAIN-KEYWORD,openai
