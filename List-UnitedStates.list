@@ -76,6 +76,10 @@ DOMAIN-SUFFIX,drift.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
 
+# Oyunfor
+DOMAIN-SUFFIX,criteo.com
+DOMAIN-SUFFIX,oyunfor.com
+
 
 # Other
 DOMAIN-KEYWORD,freenom
