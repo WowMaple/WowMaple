@@ -4,3 +4,6 @@ DOMAIN-KEYWORD,l-msedge
 DOMAIN-KEYWORD,skydrive
 DOMAIN-SUFFIX,api.onedrive.com
 DOMAIN-SUFFIX,storage.live.com
+
+# Oracle
+DOMAIN-KEYWORD,oracle
