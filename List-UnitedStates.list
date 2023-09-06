@@ -36,6 +36,8 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,intercom.io
 
 # WaltMart
 DOMAIN-SUFFIX,walmart.com
