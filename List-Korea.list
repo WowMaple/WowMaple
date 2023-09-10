@@ -1,12 +1,3 @@
-# Microsoft
-DOMAIN-SUFFIX,live.com
-
-# Google
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,youtube
-DOMAIN-SUFFIX,cloud.cupronickel.goog
-DOMAIN-KEYWORD,g-tun
-
 # Github
 DOMAIN-KEYWORD,github
 
@@ -15,44 +6,6 @@ DOMAIN-KEYWORD,netflix
 
 # Tiktok
 DOMAIN-KEYWORD,tiktok
-
-# X(Twitter)
-DOMAIN-SUFFIX,x.com
-DOMAIN-KEYWORD,twitter
-
-# Meta
-DOMAIN-KEYWORD,fackbook
-DOMAIN-KEYWORD,fbcdn
-DOMAIN-KEYWORD,instagram
-DOMAIN-SUFFIX,meta.com
-
-# CloudFlare
-IP-CIDR,1.1.1.1/32,no-resolve
-DOMAIN-KEYWORD,cloudflare
-DOMAIN-SUFFIX,onetrust.com
-DOMAIN-SUFFIX,cookielaw.org
-DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,edgekey.net
-DOMAIN-SUFFIX,cedexis-test.com
-DOMAIN-SUFFIX,1e100cdn.net
-DOMAIN-SUFFIX,akamaized.net
-DOMAIN-SUFFIX,ptcfc.com
-DOMAIN-SUFFIX,omtrdc.net
-DOMAIN-SUFFIX,driftt.com
-DOMAIN-SUFFIX,omtrdc.net
-DOMAIN-SUFFIX,6sc.co
-DOMAIN-SUFFIX,rlcdn.com
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,compute-pipe.com
-DOMAIN-SUFFIX,bizible.com
-DOMAIN-SUFFIX,b-cdn.net
-DOMAIN-SUFFIX,edgecompute.app
-DOMAIN-SUFFIX,6sense.com
-DOMAIN-SUFFIX,bizibly.com
-DOMAIN-SUFFIX,mktoresp.com
-DOMAIN-SUFFIX,drift.com
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,stripe.network
 
 # Video
 DOMAIN-KEYWORD,nunuyy
