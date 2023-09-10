@@ -1,10 +1,5 @@
 # Microsoft
-DOMAIN-KEYWORD,microsoft
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,appcenter.ms
 
 # Google
 DOMAIN-KEYWORD,google
