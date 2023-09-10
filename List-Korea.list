@@ -1,6 +1,9 @@
 # IP
 DOMAIN-SUFFIX,ip.gs
 
+# fast.com
+DOMAIN-SUFFIX,fast.com
+
 # Github
 DOMAIN-KEYWORD,github
 
@@ -16,8 +19,5 @@ DOMAIN-KEYWORD,ddys
 DOMAIN-KEYWORD,91p
 DOMAIN-SUFFIX,91selfie.com
 
-# fast.com
-DOMAIN-SUFFIX,fast.com
 
-# Other
-DOMAIN-SUFFIX,inty.news
+
