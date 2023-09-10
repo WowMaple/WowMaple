@@ -9,16 +9,6 @@ DOMAIN-KEYWORD,tmobile
 # Amazon
 DOMAIN-KEYWORD,amazon
 
-# X(Twitter)
-DOMAIN-SUFFIX,x.com
-DOMAIN-KEYWORD,twitter
-
-# Meta
-DOMAIN-KEYWORD,fackbook
-DOMAIN-KEYWORD,fbcdn
-DOMAIN-KEYWORD,instagram
-DOMAIN-SUFFIX,meta.com
-
 # OpenAI ChatGPT
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,statsig.com
@@ -29,6 +19,18 @@ DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,intercom.io
+
+# X(Twitter)
+DOMAIN-SUFFIX,x.com
+DOMAIN-KEYWORD,twitter
+
+# Meta
+DOMAIN-KEYWORD,fackbook
+DOMAIN-KEYWORD,fbcdn
+DOMAIN-KEYWORD,instagram
+DOMAIN-SUFFIX,meta.com
+
+
 
 # WaltMart
 DOMAIN-SUFFIX,walmart.com
