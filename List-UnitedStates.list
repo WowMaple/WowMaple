@@ -1,16 +1,4 @@
-# Microsoft
-DOMAIN-KEYWORD,microsoft
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,onenote.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,bing.com
 
-
-# Google
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,youtube
-DOMAIN-SUFFIX,cloud.cupronickel.goog
-DOMAIN-KEYWORD,g-tun
 
 # PayPal
 DOMAIN-KEYWORD,paypal
