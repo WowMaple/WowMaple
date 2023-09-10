@@ -20,23 +20,8 @@ DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,intercom.io
 
-# X(Twitter)
-DOMAIN-SUFFIX,x.com
-DOMAIN-KEYWORD,twitter
-
-# Meta
-DOMAIN-KEYWORD,fackbook
-DOMAIN-KEYWORD,fbcdn
-DOMAIN-KEYWORD,instagram
-DOMAIN-SUFFIX,meta.com
-
-
-
 # WaltMart
 DOMAIN-SUFFIX,walmart.com
-
-# Temu
-DOMAIN-KEYWORD,temu
 
 # ipinfo
 DOMAIN-SUFFIX,ipinfo.io
