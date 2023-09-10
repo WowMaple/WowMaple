@@ -20,6 +20,16 @@ DOMAIN-KEYWORD,netflix
 # Tiktok
 DOMAIN-KEYWORD,tiktok
 
+# X(Twitter)
+DOMAIN-SUFFIX,x.com
+DOMAIN-KEYWORD,twitter
+
+# Meta
+DOMAIN-KEYWORD,fackbook
+DOMAIN-KEYWORD,fbcdn
+DOMAIN-KEYWORD,instagram
+DOMAIN-SUFFIX,meta.com
+
 # Video
 DOMAIN-KEYWORD,nunuyy
 DOMAIN-KEYWORD,ddys
