@@ -7,8 +7,8 @@ DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,gstatic
-DOMAIN-SUFFIX,cloud.cupronickel.goog
-DOMAIN-KEYWORD,g-tun
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,ytimg.com
 
 # X(Twitter)
 DOMAIN-SUFFIX,x.com
