@@ -2,10 +2,6 @@
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,whoer.net
 
-# Microsoft
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,bing.com
-
 # Google
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,youtube
