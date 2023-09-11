@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,ip.gs
 # Microsoft
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,onenote.com
@@ -12,17 +13,20 @@ DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,svc.ms
+DOMAIN-SUFFIX,sfx.ms
+DOMAIN-SUFFIX,gfx.ms
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,msocdn.com
-DOMAIN-SUFFIX,msauth.net
-DOMAIN-SUFFIX,sfx.ms
-
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,clarity.ms
 
 # fast.com
 DOMAIN-SUFFIX,fast.com
