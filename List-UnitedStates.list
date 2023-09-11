@@ -2,31 +2,6 @@
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,whoer.net
 
-# Microsoft
-DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,office
-DOMAIN-KEYWORD,onenote
-DOMAIN-KEYWORD,onedrive
-DOMAIN-KEYWORD,outlook
-DOMAIN-KEYWORD,skype
-DOMAIN-KEYWORD,azure
-DOMAIN-KEYWORD,windows
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,appcenter.ms
-DOMAIN-SUFFIX,msftauth.net
-DOMAIN-SUFFIX,msauth.net
-DOMAIN-SUFFIX,svc.ms
-DOMAIN-SUFFIX,sfx.ms
-DOMAIN-SUFFIX,gfx.ms
-DOMAIN-SUFFIX,1drv.com
-DOMAIN-SUFFIX,msocdn.com
-DOMAIN-SUFFIX,msecnd.net
-DOMAIN-SUFFIX,sharepointonline.com
-DOMAIN-SUFFIX,clarity.ms
-DOMAIN-SUFFIX,aspnetcdn.com
-
 # Google
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,youtube
