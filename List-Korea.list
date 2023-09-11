@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,ip.gs
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,live.com
@@ -15,6 +16,7 @@ DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,msftauth.net
 
 
 # fast.com
