@@ -1,6 +1,9 @@
 # IP
 DOMAIN-SUFFIX,ip.gs
 
+# YouTube
+DOMAIN-SUFFIX,googlevideo.com
+
 # fast.com
 DOMAIN-SUFFIX,fast.com
 
