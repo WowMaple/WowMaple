@@ -9,6 +9,7 @@ DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,gstatic
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,telephony.goog
 
 # X(Twitter)
 DOMAIN-SUFFIX,x.com
