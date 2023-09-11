@@ -13,7 +13,9 @@ DOMAIN-SUFFIX,telephony.goog
 
 # X(Twitter)
 DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,t.co
 DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,twimg
 
 # Meta
 DOMAIN-KEYWORD,fackbook
