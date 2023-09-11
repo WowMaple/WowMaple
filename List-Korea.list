@@ -1,6 +1,21 @@
 # IP
 DOMAIN-SUFFIX,ip.gs
 
+# Microsoft
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,azurewebsites.net
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,appcenter.ms
+
+
 # fast.com
 DOMAIN-SUFFIX,fast.com
 
