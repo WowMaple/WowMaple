@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,ip.gs
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,microsoft365.com
+DOMAIN-SUFFIX,microsoftapp.net
 DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
@@ -33,6 +34,9 @@ DOMAIN-SUFFIX,msocdn.com
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,aspnetcdn.com
+DOMAIN-SUFFIX,skypeassets.com
+
 
 # fast.com
 DOMAIN-SUFFIX,fast.com
