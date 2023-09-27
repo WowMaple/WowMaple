@@ -13,9 +13,6 @@ DOMAIN-KEYWORD,tmobile
 # Amazon
 DOMAIN-KEYWORD,amazon
 
-# eBay
-DOMAIN-KEYWORD,ebay
-
 # OpenAI ChatGPT
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,statsig.com
