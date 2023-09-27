@@ -7,6 +7,9 @@ DOMAIN-KEYWORD,outlook
 DOMAIN-KEYWORD,skype
 DOMAIN-KEYWORD,azure
 DOMAIN-KEYWORD,windows
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,trafficmanager.net
+DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,bing.com
