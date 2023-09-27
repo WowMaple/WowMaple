@@ -8,8 +8,10 @@ DOMAIN-KEYWORD,skype
 DOMAIN-KEYWORD,azure
 DOMAIN-KEYWORD,windows
 DOMAIN-KEYWORD,akamai
+DOMAIN-KEYWORD,akadns
+DOMAIN-KEYWORD,msidentity
+DOMAIN-KEYWORD,trafficmanager
 DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,bing.com
