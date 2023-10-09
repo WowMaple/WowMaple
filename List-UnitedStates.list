@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,scamalytics.com
 # Google
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,gstatic
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ytimg.com
