@@ -7,9 +7,9 @@ DOMAIN-SUFFIX,scamalytics.com
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,ytimg
 DOMAIN-KEYWORD,gstatic
-DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,ggpht
 DOMAIN-SUFFIX,telephony.goog
 DOMAIN-SUFFIX,doubleclick.net
 
@@ -62,7 +62,6 @@ DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,cedexis-test.com
 DOMAIN-SUFFIX,1e100cdn.net
-DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,ptcfc.com
 DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,driftt.com
