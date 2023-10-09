@@ -5,11 +5,11 @@ DOMAIN-SUFFIX,ip.gs
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,nflxvideo.net
 
-# Youtube Video
-DOMAIN-KEYWORD,googlevideo
-
 # Github
 DOMAIN-KEYWORD,github
+
+# Youtube Video
+DOMAIN-KEYWORD,googlevideo
 
 # Netflix
 DOMAIN-KEYWORD,netflix
