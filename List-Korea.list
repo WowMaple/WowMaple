@@ -5,9 +5,6 @@ DOMAIN-SUFFIX,ip.gs
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,nflxvideo.net
 
-# Github
-DOMAIN-KEYWORD,github
-
 # Youtube Video
 DOMAIN-KEYWORD,googlevideo
 
