@@ -14,18 +14,6 @@ DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,telephony.goog
 
-# X(Twitter)
-DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,t.co
-DOMAIN-KEYWORD,twitter
-DOMAIN-KEYWORD,twimg
-
-# Meta
-DOMAIN-KEYWORD,fackbook
-DOMAIN-KEYWORD,fbcdn
-DOMAIN-KEYWORD,instagram
-DOMAIN-SUFFIX,meta.com
-
 # Github
 DOMAIN-KEYWORD,github
 
