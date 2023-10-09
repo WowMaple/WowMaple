@@ -3,6 +3,26 @@ DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,scamalytics.com
 
+# Google
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,gstatic
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,telephony.goog
+
+# X(Twitter)
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,twimg
+
+# Meta
+DOMAIN-KEYWORD,fackbook
+DOMAIN-KEYWORD,fbcdn
+DOMAIN-KEYWORD,instagram
+DOMAIN-SUFFIX,meta.com
+
 # PayPal
 DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,hcaptcha
