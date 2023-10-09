@@ -47,6 +47,9 @@ DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,intercom.io
 
+# Github
+DOMAIN-KEYWORD,github
+
 # WaltMart
 DOMAIN-SUFFIX,walmart.com
 
