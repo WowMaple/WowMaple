@@ -3,6 +3,9 @@ DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,scamalytics.com
 
+# Microsoft
+DOMAIN-SUFFIX,account.microsoft.com
+
 # Google
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gmail
