@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,scamalytics.com
 
 # Microsoft
 DOMAIN-SUFFIX,account.microsoft.com
+DOMAIN-SUFFIX,live.com
 
 # Google
 DOMAIN-KEYWORD,google
