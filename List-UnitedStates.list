@@ -4,8 +4,37 @@ DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,scamalytics.com
 
 # Microsoft
-DOMAIN-SUFFIX,account.microsoft.com
+DOMAIN-KEYWORD,azure
+DOMAIN-KEYWORD,akamai
+DOMAIN-KEYWORD,akadns
+DOMAIN-KEYWORD,msn
+DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,msidentity
+DOMAIN-KEYWORD,msftauth
+DOMAIN-KEYWORD,msauth
+DOMAIN-KEYWORD,msocdn
+DOMAIN-KEYWORD,msecnd
+DOMAIN-KEYWORD,office
+DOMAIN-KEYWORD,onenote
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,outlook
+DOMAIN-KEYWORD,skype
+DOMAIN-KEYWORD,windows
+DOMAIN-KEYWORD,trafficmanager
+DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,l-msedge
 DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,appcenter.ms
+
+DOMAIN-SUFFIX,svc.ms
+DOMAIN-SUFFIX,sfx.ms
+DOMAIN-SUFFIX,gfx.ms
+
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,aspnetcdn.com
 
 # Google
 DOMAIN-KEYWORD,google
