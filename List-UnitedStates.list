@@ -86,7 +86,7 @@ DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,godaddy
 
 # ICANN
-icann.org
+DOMAIN-SUFFIX,icann.org
 
 # WaltMart
 DOMAIN-SUFFIX,walmart.com
