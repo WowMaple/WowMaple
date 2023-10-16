@@ -82,8 +82,10 @@ DOMAIN-SUFFIX,intercom.io
 # Github
 DOMAIN-KEYWORD,github
 
-# Godaddy
+# Domain
 DOMAIN-KEYWORD,godaddy
+DOMAIN-KEYWORD,namecheap
+DOMAIN-KEYWORD,namesilo
 
 # ICANN
 DOMAIN-SUFFIX,icann.org
