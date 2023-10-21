@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,nflxvideo.net
 # Youtube Video
 DOMAIN-KEYWORD,googlevideo
 
+# Github
+DOMAIN-KEYWORD,github
+
 # Netflix
 DOMAIN-KEYWORD,netflix
 
