@@ -44,6 +44,7 @@ DOMAIN-KEYWORD,gstatic
 DOMAIN-KEYWORD,ggpht
 DOMAIN-SUFFIX,telephony.goog
 DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,get.ing
 
 # X(Twitter)
 DOMAIN-SUFFIX,x.com
