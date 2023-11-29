@@ -125,6 +125,15 @@ DOMAIN-SUFFIX,drift.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
 
+#TikTok
+DOMAIN-KEYWORD,capcut
+DOMAIN-KEYWORD,ibyteimg
+DOMAIN-KEYWORD,byteeffecttos
+DOMAIN-KEYWORD,byteoversea
+
+
+
+
 # Other
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,91p
