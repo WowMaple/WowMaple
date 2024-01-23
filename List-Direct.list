@@ -2,36 +2,3 @@
 DOMAIN-SUFFIX,storage.live.com
 DOMAIN-SUFFIX,files.1drv.com
 
-# Microsoft
-DOMAIN-KEYWORD,azure
-DOMAIN-KEYWORD,akamai
-DOMAIN-KEYWORD,akadns
-DOMAIN-KEYWORD,msn
-DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,msidentity
-DOMAIN-KEYWORD,msftauth
-DOMAIN-KEYWORD,msauth
-DOMAIN-KEYWORD,msocdn
-DOMAIN-KEYWORD,msecnd
-DOMAIN-KEYWORD,office
-DOMAIN-KEYWORD,onenote
-DOMAIN-KEYWORD,onedrive
-DOMAIN-KEYWORD,outlook
-DOMAIN-KEYWORD,skype
-DOMAIN-KEYWORD,windows
-DOMAIN-KEYWORD,trafficmanager
-DOMAIN-KEYWORD,1drv
-DOMAIN-KEYWORD,l-msedge
-DOMAIN-KEYWORD,clipchamp
-DOMAIN-KEYWORD,demdex
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,appcenter.ms
-DOMAIN-SUFFIX,svc.ms
-DOMAIN-SUFFIX,sfx.ms
-DOMAIN-SUFFIX,gfx.ms
-DOMAIN-SUFFIX,clarity.ms
-DOMAIN-SUFFIX,onestore.ms
-DOMAIN-SUFFIX,sharepointonline.com
-DOMAIN-SUFFIX,aspnetcdn.com
