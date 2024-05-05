@@ -45,6 +45,7 @@ DOMAIN-KEYWORD,amazon
 
 # OpenAI ChatGPT
 DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
 DOMAIN-SUFFIX,statsig.com
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,sentry.io
