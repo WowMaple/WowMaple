@@ -1,2 +1,66 @@
+# IP
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,scamalytics.com
+
 # Microsoft
 DOMAIN-SUFFIX,onedrive.live.com
+
+# Google
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,ytimg
+DOMAIN-KEYWORD,gstatic
+DOMAIN-KEYWORD,ggpht
+DOMAIN-KEYWORD,gemini
+DOMAIN-SUFFIX,telephony.goog
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,get.ing
+
+# X(Twitter)
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,twimg
+
+# Meta
+DOMAIN-KEYWORD,fackbook
+DOMAIN-KEYWORD,fbcdn
+DOMAIN-KEYWORD,instagram
+DOMAIN-SUFFIX,meta.com
+
+# OpenAI ChatGPT
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+
+# Other
+DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,91p
+DOMAIN-KEYWORD,91
+DOMAIN-KEYWORD,jav
+DOMAIN-KEYWORD,bulianglin
+DOMAIN-KEYWORD,duolingo
+DOMAIN-KEYWORD,recaptcha
+DOMAIN-KEYWORD,toutiao
+DOMAIN-KEYWORD,bytescm
+DOMAIN-KEYWORD,bytegoofy
+DOMAIN-KEYWORD,volces
+DOMAIN-KEYWORD,zijieapi
+DOMAIN-KEYWORD,pangolin
+DOMAIN-KEYWORD,ctobsnssdk
+DOMAIN-KEYWORD,unity3d
+DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,inty.news
+DOMAIN-SUFFIX,hostloc.com
