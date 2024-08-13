@@ -6,18 +6,6 @@ DOMAIN-SUFFIX,scamalytics.com
 # Microsoft
 DOMAIN-SUFFIX,onedrive.live.com
 
-# Google
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,youtube
-DOMAIN-KEYWORD,ytimg
-DOMAIN-KEYWORD,gstatic
-DOMAIN-KEYWORD,ggpht
-DOMAIN-KEYWORD,gemini
-DOMAIN-SUFFIX,telephony.goog
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,get.ing
-
 # X(Twitter)
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,t.co
@@ -30,19 +18,7 @@ DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,meta.com
 
-# OpenAI ChatGPT
-DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,chatgpt
-DOMAIN-SUFFIX,statsig.com
-DOMAIN-SUFFIX,revenuecat.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,lencr.org
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,statsigapi.net
-DOMAIN-SUFFIX,featuregates.org
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
+
 
 # Other
 DOMAIN-KEYWORD,porn
