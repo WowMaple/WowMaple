@@ -1,23 +1,5 @@
-# IP
-DOMAIN-SUFFIX,ip.gs
-DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,whoer.net
-DOMAIN-SUFFIX,scamalytics.com
-
 # Microsoft
 DOMAIN-SUFFIX,onedrive.live.com
-
-# Google
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,youtube
-DOMAIN-KEYWORD,ytimg
-DOMAIN-KEYWORD,gstatic
-DOMAIN-KEYWORD,ggpht
-DOMAIN-KEYWORD,gemini
-DOMAIN-SUFFIX,telephony.goog
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,get.ing
 
 # X(Twitter)
 DOMAIN-SUFFIX,x.com
@@ -43,93 +25,12 @@ DOMAIN-KEYWORD,t-mo
 # Amazon
 DOMAIN-KEYWORD,amazon
 
-# OpenAI ChatGPT
-DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,chatgpt
-DOMAIN-SUFFIX,statsig.com
-DOMAIN-SUFFIX,revenuecat.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,lencr.org
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,statsigapi.net
-DOMAIN-SUFFIX,featuregates.org
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-
+# WaltMart
+DOMAIN-SUFFIX,walmart.com
 
 # Domain
 DOMAIN-KEYWORD,godaddy
 DOMAIN-KEYWORD,namecheap
 DOMAIN-KEYWORD,namesilo
-
-# ICANN
-DOMAIN-SUFFIX,icann.org
-
-# WaltMart
-DOMAIN-SUFFIX,walmart.com
-
-# CloudFlare
-IP-CIDR,1.1.1.1/32,no-resolve
-DOMAIN-KEYWORD,cloudflare
-DOMAIN-SUFFIX,onetrust.com
-DOMAIN-SUFFIX,cookielaw.org
-DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,edgekey.net
-DOMAIN-SUFFIX,cedexis-test.com
-DOMAIN-SUFFIX,1e100cdn.net
-DOMAIN-SUFFIX,ptcfc.com
-DOMAIN-SUFFIX,omtrdc.net
-DOMAIN-SUFFIX,driftt.com
-DOMAIN-SUFFIX,omtrdc.net
-DOMAIN-SUFFIX,6sc.co
-DOMAIN-SUFFIX,rlcdn.com
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,compute-pipe.com
-DOMAIN-SUFFIX,bizible.com
-DOMAIN-SUFFIX,b-cdn.net
-DOMAIN-SUFFIX,edgecompute.app
-DOMAIN-SUFFIX,6sense.com
-DOMAIN-SUFFIX,bizibly.com
-DOMAIN-SUFFIX,mktoresp.com
-DOMAIN-SUFFIX,drift.com
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,stripe.network
-
-#TikTok
-DOMAIN-KEYWORD,capcut
-DOMAIN-KEYWORD,ibyteimg
-DOMAIN-KEYWORD,byteeffecttos
-DOMAIN-KEYWORD,byteoversea
-
-
-
-
-# Other
-DOMAIN-KEYWORD,porn
-DOMAIN-KEYWORD,91p
-DOMAIN-KEYWORD,91
-DOMAIN-KEYWORD,jav
-DOMAIN-KEYWORD,bulianglin
-DOMAIN-KEYWORD,duolingo
-DOMAIN-KEYWORD,recaptcha
-DOMAIN-KEYWORD,toutiao
-DOMAIN-KEYWORD,bytescm
-DOMAIN-KEYWORD,bytegoofy
-DOMAIN-KEYWORD,volces
-DOMAIN-KEYWORD,zijieapi
-DOMAIN-KEYWORD,pangolin
-DOMAIN-KEYWORD,ctobsnssdk
-DOMAIN-KEYWORD,unity3d
-DOMAIN-SUFFIX,v2rayssr.com
-DOMAIN-SUFFIX,gitbook.io
-DOMAIN-SUFFIX,inty.news
-DOMAIN-SUFFIX,hostloc.com
-
-
-
-
-
-
 
 
