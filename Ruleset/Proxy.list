@@ -3,9 +3,6 @@ DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,scamalytics.com
 
-# Microsoft
-DOMAIN-SUFFIX,onedrive.live.com
-
 # X(Twitter)
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,t.co
