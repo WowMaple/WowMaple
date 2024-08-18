@@ -6,6 +6,8 @@ DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,ytimg
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,usercontent.goog
+DOMAIN-SUFFIX,doubleclick.net
 
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gmail
