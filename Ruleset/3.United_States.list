@@ -2,6 +2,11 @@
 DOMAIN-SUFFIX,onedrive.live.com
 
 # Google
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,ytimg
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,yt.be
+
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,gstatic
