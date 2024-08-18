@@ -1,21 +1,3 @@
-# IP
-DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,whoer.net
-DOMAIN-SUFFIX,scamalytics.com
-
-# X(Twitter)
-DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,t.co
-DOMAIN-KEYWORD,twitter
-DOMAIN-KEYWORD,twimg
-
-# Meta
-DOMAIN-KEYWORD,fackbook
-DOMAIN-KEYWORD,fbcdn
-DOMAIN-KEYWORD,instagram
-DOMAIN-SUFFIX,meta.com
-
-# Other
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,91p
 DOMAIN-KEYWORD,91
