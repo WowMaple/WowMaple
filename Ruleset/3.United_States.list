@@ -1,3 +1,6 @@
+# IP Check
+DOMAIN-SUFFIX,ipinfo.io
+
 # Microsoft
 DOMAIN-SUFFIX,onedrive.live.com
 
