@@ -62,7 +62,12 @@ DOMAIN-KEYWORD,amazon
 DOMAIN-SUFFIX,walmart.com
 
 # Domain
+DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,spaceship
 DOMAIN-KEYWORD,namecheap
 DOMAIN-KEYWORD,namesilo
-
+DOMAIN-KEYWORD,godaddy
+DOMAIN-KEYWORD,ip2world
+DOMAIN-KEYWORD,renzhe
+DOMAIN-KEYWORD,itangtalk
 
