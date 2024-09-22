@@ -62,6 +62,7 @@ DOMAIN-KEYWORD,amazon
 DOMAIN-SUFFIX,walmart.com
 
 # Domain
+DOMAIN-SUFFIX,one.one.one.one
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,spaceship
 DOMAIN-KEYWORD,namecheap
