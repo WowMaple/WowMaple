@@ -51,6 +51,10 @@ DOMAIN-KEYWORD,hcaptcha
 DOMAIN-KEYWORD,t-mobile
 DOMAIN-KEYWORD,tmobile
 DOMAIN-KEYWORD,t-mo
+DOMAIN-KEYWORD,jibecloud
+DOMAIN-KEYWORD,3gppnetwork
+DOMAIN-KEYWORD,telephony.goog
+DOMAIN-SUFFIX,autonavi.com
 
 # UltraMobile
 DOMAIN-KEYWORD,ultramobile
