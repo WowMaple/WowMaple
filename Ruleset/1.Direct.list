@@ -31,4 +31,4 @@ IP-CIDR,205.180.175.0/24,no-resolve
 
 # Hafoo
 DOMAIN-KEYWORD,hafoo
-
+DOMAIN-KEYWORD,gfgroup
