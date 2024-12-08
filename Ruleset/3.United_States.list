@@ -70,6 +70,7 @@ DOMAIN-KEYWORD,oracle
 
 # Claude
 DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,anthropic
 
 # Domain
 IP-CIDR,1.1.1.1/32,no-resolve
