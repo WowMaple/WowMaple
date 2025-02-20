@@ -1,0 +1,6 @@
+RULE-SET,https://raw.githubusercontent.com/WowMaple/WowMaple/main/Ruleset/1.Direct.list,direct
+RULE-SET,https://raw.githubusercontent.com/WowMaple/WowMaple/main/Ruleset/2.Video_Proxy.list,Korea-01
+RULE-SET,https://raw.githubusercontent.com/WowMaple/WowMaple/main/Ruleset/3.United_States.list,United States-01
+RULE-SET,https://raw.githubusercontent.com/WowMaple/WowMaple/main/Ruleset/4.OpenAi.list,United States-01
+RULE-SET,https://raw.githubusercontent.com/WowMaple/WowMaple/main/Ruleset/5.Telegram.list,Korea-01
+RULE-SET,https://raw.githubusercontent.com/WowMaple/WowMaple/main/Ruleset/6.Proxy.list,Korea-01
