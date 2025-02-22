@@ -30,5 +30,5 @@ IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
 
 # OndDrive Data
-DOMAIN-SUFFIX,files.1drv.com
+DOMAIN-SUFFIX,1drv.com
 
